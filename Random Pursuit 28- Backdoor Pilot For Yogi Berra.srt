@@ -1,0 +1,7396 @@
+1
+00:00:00,000 --> 00:00:07,000
+[Music]
+
+2
+00:00:07,000 --> 00:00:13,000
+Hello and welcome to the 28th edition of Random Pursuit on the Incomparable Networks Game Show,
+
+3
+00:00:13,000 --> 00:00:17,000
+recorded in person at an undisclosed location.
+
+4
+00:00:17,000 --> 00:00:23,000
+Random Pursuit, a game that discards the board and shuffles trivia cards from lots and lots of trivia games.
+
+5
+00:00:23,000 --> 00:00:28,000
+I'm your scorekeeper, Stephen Chepanski, and now your host of this and every episode of Random Pursuit,
+
+6
+00:00:28,000 --> 00:00:33,360
+Erica Ensign. Thank you, Stephen. As always, we have a lovely group of players and I will introduce
+
+7
+00:00:33,360 --> 00:00:38,480
+them in the order in which they will play. That order was, as always, determined by Random.org.
+
+8
+00:00:38,480 --> 00:00:49,200
+That's its theme song. All right, every recording of this show needs to now be in person because
+
+9
+00:00:49,200 --> 00:00:57,680
+that was amazing. Is that its theme song part of the theme song? Yes. All right, so our first player
+
+10
+00:00:57,680 --> 00:01:00,420
+- Our first player, and we're going around the table,
+
+11
+00:01:00,420 --> 00:01:01,300
+this is delightful for me.
+
+12
+00:01:01,300 --> 00:01:03,180
+Our first player is a trivia stalwart
+
+13
+00:01:03,180 --> 00:01:04,340
+who has had a run of bad luck
+
+14
+00:01:04,340 --> 00:01:06,340
+with so many Doctor Who questions.
+
+15
+00:01:06,340 --> 00:01:07,860
+I have let him cut the deck
+
+16
+00:01:07,860 --> 00:01:09,580
+in hopes that his luck will change.
+
+17
+00:01:09,580 --> 00:01:10,980
+Welcome, Monty Ashley.
+
+18
+00:01:10,980 --> 00:01:12,180
+- I'm a stalwart.
+
+19
+00:01:12,180 --> 00:01:16,220
+- Our second player appears on, at most,
+
+20
+00:01:16,220 --> 00:01:18,340
+one incomparable podcast a year,
+
+21
+00:01:18,340 --> 00:01:20,060
+and we are glad it is this one.
+
+22
+00:01:20,060 --> 00:01:21,780
+Please welcome Lauren Snell.
+
+23
+00:01:21,780 --> 00:01:22,620
+- Hi there.
+
+24
+00:01:22,620 --> 00:01:25,700
+- Our third player is an author and podcaster
+
+25
+00:01:25,700 --> 00:01:27,640
+whose next book, "All Souls Lost"
+
+26
+00:01:27,640 --> 00:01:29,660
+is coming out October 17th
+
+27
+00:01:29,660 --> 00:01:32,220
+and is available for pre-order now.
+
+28
+00:01:32,220 --> 00:01:33,300
+Dan Moran.
+
+29
+00:01:33,300 --> 00:01:35,140
+- I wish somebody had told me.
+
+30
+00:01:35,140 --> 00:01:36,380
+Well, now I know, I guess.
+
+31
+00:01:36,380 --> 00:01:38,380
+It's so nice to be here as always.
+
+32
+00:01:38,380 --> 00:01:39,500
+- Our fourth player is appearing
+
+33
+00:01:39,500 --> 00:01:42,220
+on his first ever podcast on the Incarnable Network.
+
+34
+00:01:42,220 --> 00:01:43,780
+(all laughing)
+
+35
+00:01:43,780 --> 00:01:46,020
+Introducing Jason Snell.
+
+36
+00:01:46,020 --> 00:01:47,020
+- Hello, everybody.
+
+37
+00:01:47,020 --> 00:01:49,460
+I hope I do okay.
+
+38
+00:01:49,460 --> 00:01:51,020
+- And fifth, but never least,
+
+39
+00:01:51,020 --> 00:01:53,380
+the host of "Lion's Tower" and "Shields",
+
+40
+00:01:53,380 --> 00:01:54,700
+it's Shelly Brisbane.
+
+41
+00:01:54,700 --> 00:01:56,120
+Will there be questions about lions?
+
+42
+00:01:56,120 --> 00:01:58,120
+'Cause I expect questions about lions.
+
+43
+00:01:58,120 --> 00:02:00,040
+- Here's how it works.
+
+44
+00:02:00,040 --> 00:02:01,800
+Random pursuit is a lot like the classic
+
+45
+00:02:01,800 --> 00:02:03,020
+trivial pursuit board game,
+
+46
+00:02:03,020 --> 00:02:04,200
+but instead of using the board,
+
+47
+00:02:04,200 --> 00:02:06,320
+each player has their own six sided die
+
+48
+00:02:06,320 --> 00:02:08,960
+or dice rolling app like Dice by P-Calc.
+
+49
+00:02:08,960 --> 00:02:09,880
+Here we're around a table.
+
+50
+00:02:09,880 --> 00:02:10,980
+We have a lot of physical dice.
+
+51
+00:02:10,980 --> 00:02:12,040
+It's great.
+
+52
+00:02:12,040 --> 00:02:12,880
+- Sorry, James.
+
+53
+00:02:12,880 --> 00:02:16,040
+- It's just like P-Calc is last year's news.
+
+54
+00:02:16,040 --> 00:02:18,680
+- The players roll their die to determine
+
+55
+00:02:18,680 --> 00:02:21,000
+which question on the card they will answer.
+
+56
+00:02:23,680 --> 00:02:25,680
+I lost my place.
+
+57
+00:02:25,680 --> 00:02:26,680
+It's going great.
+
+58
+00:02:26,680 --> 00:02:27,680
+Do you have an editor?
+
+59
+00:02:27,680 --> 00:02:28,680
+I don't know.
+
+60
+00:02:28,680 --> 00:02:29,680
+No, I don't know.
+
+61
+00:02:29,680 --> 00:02:32,040
+For each question they answer correctly, they'll get one point.
+
+62
+00:02:32,040 --> 00:02:35,920
+If they answer correctly, they can roll again for another question, but they can also answer
+
+63
+00:02:35,920 --> 00:02:40,760
+up to three questions on each turn, except for the final round when there is no question
+
+64
+00:02:40,760 --> 00:02:41,760
+limit.
+
+65
+00:02:41,760 --> 00:02:42,760
+A crazy round.
+
+66
+00:02:42,760 --> 00:02:46,360
+If they roll the same number two times in a row on the same turn, they get to pick which
+
+67
+00:02:46,360 --> 00:02:48,200
+edition the question comes from.
+
+68
+00:02:48,200 --> 00:02:50,200
+The players usually have a list.
+
+69
+00:02:50,200 --> 00:02:51,200
+Today they don't.
+
+70
+00:02:51,200 --> 00:02:52,520
+Sorry.
+
+71
+00:02:52,520 --> 00:02:54,240
+It's way too long to read on the podcast.
+
+72
+00:02:54,240 --> 00:02:56,680
+It's way too long for them to read anyway, so it doesn't matter.
+
+73
+00:02:56,680 --> 00:03:00,400
+If they happen to roll the same number all three times on the same turn, they can pick
+
+74
+00:03:00,400 --> 00:03:03,080
+both the addition and the category.
+
+75
+00:03:03,080 --> 00:03:07,720
+And sometimes I don't notice this when it happens, so please holler if I miss it.
+
+76
+00:03:07,720 --> 00:03:11,720
+We will play for an amount of time determined by me, and then we'll do one last round with
+
+77
+00:03:11,720 --> 00:03:15,640
+no question limit, and the player with the highest score at the end becomes the random
+
+78
+00:03:15,640 --> 00:03:21,160
+champion with bragging rights that last until the next time we're all in person together
+
+79
+00:03:21,160 --> 00:03:23,320
+- At an un-disclosed location.
+
+80
+00:03:23,320 --> 00:03:25,080
+- Steaks.
+
+81
+00:03:25,080 --> 00:03:27,200
+- All right, is everybody ready?
+
+82
+00:03:27,200 --> 00:03:28,780
+- Yes.
+
+83
+00:03:28,780 --> 00:03:30,680
+- All right, Monty, you get to start us off.
+
+84
+00:03:30,680 --> 00:03:31,880
+Please roll your D six.
+
+85
+00:03:31,880 --> 00:03:35,560
+- Three.
+
+86
+00:03:35,560 --> 00:03:37,720
+- All right, this is coming from, and you cut the deck,
+
+87
+00:03:37,720 --> 00:03:39,780
+so you have only yourself to blame.
+
+88
+00:03:39,780 --> 00:03:41,520
+Chex TV trivia.
+
+89
+00:03:41,520 --> 00:03:42,360
+- Nice.
+
+90
+00:03:42,360 --> 00:03:45,880
+- Remember, these cards were from 1984.
+
+91
+00:03:45,880 --> 00:03:47,680
+The third question on the card is,
+
+92
+00:03:47,680 --> 00:03:51,620
+Yogi Bear first appeared on what cartoon show?
+
+93
+00:03:51,620 --> 00:03:53,640
+- Wow.
+
+94
+00:03:53,640 --> 00:03:55,320
+(all laughing)
+
+95
+00:03:55,320 --> 00:03:57,640
+That's an interesting question.
+
+96
+00:03:57,640 --> 00:04:02,160
+I'm going to say the Yogi Bear Show.
+
+97
+00:04:02,160 --> 00:04:03,440
+- I'm afraid that is not correct.
+
+98
+00:04:03,440 --> 00:04:04,280
+- Weird.
+
+99
+00:04:04,280 --> 00:04:07,280
+- Is that Hanna-Barbera hour or something?
+
+100
+00:04:07,280 --> 00:04:09,160
+- The Huckleberry Hound Show.
+
+101
+00:04:09,160 --> 00:04:10,640
+- Oh, okay.
+
+102
+00:04:10,640 --> 00:04:13,160
+- Was there like a backdoor pilot for Yogi Bear?
+
+103
+00:04:13,160 --> 00:04:14,000
+Yogi Bear?
+
+104
+00:04:14,000 --> 00:04:15,000
+(all laughing)
+
+105
+00:04:15,000 --> 00:04:15,840
+- That's a different question.
+
+106
+00:04:15,840 --> 00:04:17,360
+- If you see a backdoor pilot,
+
+107
+00:04:17,360 --> 00:04:18,560
+- I'm not going through it.
+
+108
+00:04:18,560 --> 00:04:20,440
+(all laughing)
+
+109
+00:04:20,440 --> 00:04:22,460
+- That's it, Dan's cleaning up his own mistakes.
+
+110
+00:04:22,460 --> 00:04:23,300
+I love it.
+
+111
+00:04:23,300 --> 00:04:26,520
+- All right, well, good try, Monty.
+
+112
+00:04:26,520 --> 00:04:27,740
+Now we're on to Lauren.
+
+113
+00:04:27,740 --> 00:04:29,280
+Go ahead and roll.
+
+114
+00:04:29,280 --> 00:04:30,120
+- Five.
+
+115
+00:04:30,120 --> 00:04:32,920
+- All right, this is coming from the Star Wars
+
+116
+00:04:32,920 --> 00:04:34,960
+Tribute Pursuit Edition,
+
+117
+00:04:34,960 --> 00:04:38,160
+in which category five is droids, creatures, and aliens.
+
+118
+00:04:38,160 --> 00:04:40,440
+This is a card that has a picture on one side.
+
+119
+00:04:40,440 --> 00:04:41,260
+And since we're in person,
+
+120
+00:04:41,260 --> 00:04:42,560
+I can actually show you the picture.
+
+121
+00:04:42,560 --> 00:04:46,600
+Usually it's not helpful at all, but here's the picture.
+
+122
+00:04:46,600 --> 00:04:48,480
+Go ahead and describe that if you can.
+
+123
+00:04:48,480 --> 00:04:49,720
+Just don't look at the other side of the card
+
+124
+00:04:49,720 --> 00:04:51,000
+or that would be cheating.
+
+125
+00:04:51,000 --> 00:04:54,360
+Maybe, who's that?
+
+126
+00:04:54,360 --> 00:04:56,120
+- I can't tell the emperor.
+
+127
+00:04:56,120 --> 00:04:58,760
+- I think it's the emperor and I think he's sitting
+
+128
+00:04:58,760 --> 00:05:03,120
+by the big round window thing in a throne.
+
+129
+00:05:03,120 --> 00:05:03,960
+- Yeah. - All right, well.
+
+130
+00:05:03,960 --> 00:05:06,000
+- I mean, technically anywhere the emperor sits
+
+131
+00:05:06,000 --> 00:05:07,320
+is a throne, I think.
+
+132
+00:05:07,320 --> 00:05:08,640
+That's how that works, right?
+
+133
+00:05:08,640 --> 00:05:11,420
+- Let's see if that picture helps you.
+
+134
+00:05:11,420 --> 00:05:15,160
+Who warned Luke not to underestimate the emperor?
+
+135
+00:05:15,160 --> 00:05:16,640
+- I think this picture is not helpful.
+
+136
+00:05:16,640 --> 00:05:18,120
+- That seems not helpful.
+
+137
+00:05:18,120 --> 00:05:23,960
+Well, I have no memory of that happening,
+
+138
+00:05:23,960 --> 00:05:26,120
+but let's go with Darth Vader.
+
+139
+00:05:26,120 --> 00:05:27,400
+It was not Darth Vader.
+
+140
+00:05:27,400 --> 00:05:28,240
+Anybody else?
+
+141
+00:05:28,240 --> 00:05:29,080
+- Leia?
+
+142
+00:05:29,080 --> 00:05:29,900
+- Nope.
+
+143
+00:05:29,900 --> 00:05:30,740
+- Yoda.
+
+144
+00:05:30,740 --> 00:05:31,580
+- Yoda.
+
+145
+00:05:31,580 --> 00:05:32,400
+- Dan has it right, it was Yoda.
+
+146
+00:05:32,400 --> 00:05:34,840
+- Do not underestimate the powers of the Sith.
+
+147
+00:05:34,840 --> 00:05:35,720
+- That sounds right.
+
+148
+00:05:35,720 --> 00:05:38,040
+- Or suffer your father's fate, you will.
+
+149
+00:05:38,040 --> 00:05:38,880
+- Sorry.
+
+150
+00:05:38,880 --> 00:05:40,240
+- Will we all be doing impressions?
+
+151
+00:05:40,240 --> 00:05:41,080
+- Before he inverts the sentences.
+
+152
+00:05:41,080 --> 00:05:41,920
+- I'm not prepared.
+
+153
+00:05:41,920 --> 00:05:44,920
+- He doesn't invert the sentences much in "Jetfire" at all.
+
+154
+00:05:44,920 --> 00:05:45,760
+- It's true.
+
+155
+00:05:45,760 --> 00:05:46,780
+And if you watch these,
+
+156
+00:05:46,780 --> 00:05:49,200
+so it's just like him doing that to mess with Luke.
+
+157
+00:05:49,200 --> 00:05:50,040
+- Yeah.
+
+158
+00:05:50,040 --> 00:05:52,880
+And then later it became, he does it every time.
+
+159
+00:05:52,880 --> 00:05:54,600
+- All right, Dan, that brings us to you.
+
+160
+00:05:54,600 --> 00:05:56,560
+Will you get another Star Wars question?
+
+161
+00:05:56,560 --> 00:05:57,400
+- Likely.
+
+162
+00:05:57,400 --> 00:05:58,240
+- No, you will not.
+
+163
+00:05:58,240 --> 00:05:59,760
+- A one, please, Erica.
+
+164
+00:05:59,760 --> 00:06:02,560
+- All right, it said this is coming from the Walt Disney
+
+165
+00:06:02,560 --> 00:06:03,680
+Family Edition.
+
+166
+00:06:03,680 --> 00:06:05,280
+This is from the grownups box.
+
+167
+00:06:05,280 --> 00:06:06,120
+- Dang it.
+
+168
+00:06:06,120 --> 00:06:10,000
+- Category, welcome to the world of places.
+
+169
+00:06:10,000 --> 00:06:11,080
+- I hate places.
+
+170
+00:06:11,080 --> 00:06:11,920
+- Why are they all in the world?
+
+171
+00:06:11,920 --> 00:06:12,760
+- They're the worst.
+
+172
+00:06:12,760 --> 00:06:14,320
+- That's just the world.
+
+173
+00:06:14,320 --> 00:06:15,720
+- It is.
+
+174
+00:06:15,720 --> 00:06:19,760
+What, fittingly enough, is the monetary unit of Zaire?
+
+175
+00:06:19,760 --> 00:06:28,120
+- Fittingly enough, it's the monetary unit of Zaire,
+
+176
+00:06:28,120 --> 00:06:31,560
+a country that I believe is no longer called Zaire, right?
+
+177
+00:06:31,560 --> 00:06:32,760
+- I don't know, Stephen?
+
+178
+00:06:32,760 --> 00:06:36,360
+- I cannot divulge that information.
+
+179
+00:06:36,360 --> 00:06:42,940
+- Is it the Zaire dollar?
+
+180
+00:06:42,940 --> 00:06:45,940
+- You should have stopped after the word.
+
+181
+00:06:45,940 --> 00:06:47,260
+- Zire. - Zire, yep.
+
+182
+00:06:47,260 --> 00:06:50,100
+- I thought about it and I was like, that seems dumb.
+
+183
+00:06:50,100 --> 00:06:52,280
+- Well.
+
+184
+00:06:52,280 --> 00:06:54,380
+- All right, well, it was close.
+
+185
+00:06:54,380 --> 00:06:57,060
+- We are off to a great start in person here.
+
+186
+00:06:57,060 --> 00:07:00,060
+So far we have a sweep, a sweep of zeros.
+
+187
+00:07:00,060 --> 00:07:02,020
+So Jason, can you change that for us?
+
+188
+00:07:02,020 --> 00:07:04,180
+- Seems unlikely, but I'll give it a try.
+
+189
+00:07:04,180 --> 00:07:05,360
+A one.
+
+190
+00:07:05,360 --> 00:07:07,100
+- All right, this is coming from the Doctor Who edition.
+
+191
+00:07:07,100 --> 00:07:08,940
+I believe this is the 2018 edition
+
+192
+00:07:08,940 --> 00:07:12,840
+that goes through the first season of Jodie Whittaker.
+
+193
+00:07:12,840 --> 00:07:14,760
+Category one is Time Lords.
+
+194
+00:07:14,760 --> 00:07:17,420
+What villain does Clara Oswald follow
+
+195
+00:07:17,420 --> 00:07:19,720
+into the doctor's own time stream
+
+196
+00:07:19,720 --> 00:07:22,080
+in his tomb on Trenzalore?
+
+197
+00:07:22,080 --> 00:07:28,400
+- That is the great intelligence.
+
+198
+00:07:28,400 --> 00:07:30,820
+- It is, we have our first point.
+
+199
+00:07:30,820 --> 00:07:31,660
+- Score.
+
+200
+00:07:31,660 --> 00:07:36,620
+- As played by our good friend,
+
+201
+00:07:36,620 --> 00:07:39,260
+oh, what's his name?
+
+202
+00:07:39,260 --> 00:07:40,980
+You got this.
+
+203
+00:07:41,860 --> 00:07:44,460
+- No points. - It's not for any points.
+
+204
+00:07:44,460 --> 00:07:47,060
+- But it's a, it's a, it's a, no, it's not.
+
+205
+00:07:47,060 --> 00:07:48,220
+- He's iconic.
+
+206
+00:07:48,220 --> 00:07:50,620
+- I know, but now I can't remember his name.
+
+207
+00:07:50,620 --> 00:07:51,860
+- He was in "Loki", he was in "Star Wars"
+
+208
+00:07:51,860 --> 00:07:52,700
+later after this. - I know.
+
+209
+00:07:52,700 --> 00:07:54,420
+- Richard E. Grant. - There we go.
+
+210
+00:07:54,420 --> 00:07:57,140
+- Richard E. Grant as the great intelligence.
+
+211
+00:07:57,140 --> 00:07:58,300
+- Oh, from "Husky Hawk".
+
+212
+00:07:58,300 --> 00:08:00,860
+- He had another dumb name,
+
+213
+00:08:00,860 --> 00:08:02,620
+but he was revealed to be the great intelligence.
+
+214
+00:08:02,620 --> 00:08:03,460
+Okay.
+
+215
+00:08:03,460 --> 00:08:06,060
+Six.
+
+216
+00:08:06,060 --> 00:08:09,660
+- All right, this is coming from the totally 80s edition.
+
+217
+00:08:09,660 --> 00:08:12,980
+And I realized looking at the boxes on my shelf
+
+218
+00:08:12,980 --> 00:08:15,020
+the other day that the Totally 80s Edition
+
+219
+00:08:15,020 --> 00:08:18,260
+is yet another only sold in Canada version
+
+220
+00:08:18,260 --> 00:08:21,620
+that has, I think, 500 questions, specifically Canadian.
+
+221
+00:08:21,620 --> 00:08:22,460
+Let's see if this is one of them.
+
+222
+00:08:22,460 --> 00:08:24,060
+- Only Canada experienced the 80s.
+
+223
+00:08:24,060 --> 00:08:26,660
+- Category six is wildcard.
+
+224
+00:08:26,660 --> 00:08:31,660
+So what Screech Owl author co-wrote the 1989 book
+
+225
+00:08:31,660 --> 00:08:36,100
+Home Game, colon, Hockey and Life in Canada?
+
+226
+00:08:36,100 --> 00:08:37,940
+Screech Owl is italicized.
+
+227
+00:08:37,940 --> 00:08:39,500
+- I think Steve is about to have a seizure.
+
+228
+00:08:39,500 --> 00:08:42,620
+- Home game hockey in life in Canada is also italicized.
+
+229
+00:08:42,620 --> 00:08:46,100
+I'm guessing this is one of the 500 Canadian questions.
+
+230
+00:08:46,100 --> 00:08:48,020
+- Could it be a Canadian hockey player?
+
+231
+00:08:48,020 --> 00:08:48,860
+I'm just kidding.
+
+232
+00:08:48,860 --> 00:08:50,020
+(laughing)
+
+233
+00:08:50,020 --> 00:08:52,820
+- Well, we know it's the author of Screech Owl.
+
+234
+00:08:52,820 --> 00:08:56,960
+- And that's why it's clearly TV screech Dustin Diamond.
+
+235
+00:08:56,960 --> 00:08:59,580
+(laughing)
+
+236
+00:08:59,580 --> 00:09:00,900
+- That was also my first thought.
+
+237
+00:09:00,900 --> 00:09:02,360
+- Twist. - I admit it.
+
+238
+00:09:02,360 --> 00:09:03,420
+No, that is not correct.
+
+239
+00:09:03,420 --> 00:09:04,420
+Steven, did you know this one?
+
+240
+00:09:04,420 --> 00:09:05,900
+- No, no, I didn't know.
+
+241
+00:09:05,900 --> 00:09:07,280
+- Wait, what?
+
+242
+00:09:07,280 --> 00:09:08,120
+- Yeah.
+
+243
+00:09:08,120 --> 00:09:08,940
+- Somebody named Roy MacGregor?
+
+244
+00:09:08,940 --> 00:09:10,940
+I know, I know Aurora McGregor.
+
+245
+00:09:10,940 --> 00:09:12,300
+But I don't, I didn't know that book.
+
+246
+00:09:12,300 --> 00:09:14,300
+I think I misheard the question and thought it was something else.
+
+247
+00:09:14,300 --> 00:09:16,300
+Is that like Conor McGregor's grandpa or something?
+
+248
+00:09:16,300 --> 00:09:17,740
+Uh, yes.
+
+249
+00:09:17,740 --> 00:09:19,420
+Isn't that the fighter, the MMA fighter?
+
+250
+00:09:19,420 --> 00:09:20,300
+Is that what we're talking about?
+
+251
+00:09:20,300 --> 00:09:21,020
+Yeah, I don't know.
+
+252
+00:09:21,020 --> 00:09:21,500
+Okay.
+
+253
+00:09:21,500 --> 00:09:25,180
+Mr. McGregor's, uh, Peter Rabbit's, uh, grandson?
+
+254
+00:09:25,180 --> 00:09:26,140
+That's right.
+
+255
+00:09:26,140 --> 00:09:27,180
+I'm not speaking about hockey players.
+
+256
+00:09:27,180 --> 00:09:29,900
+Did you say Mr. McGregor is Peter Rabbit's grandson?
+
+257
+00:09:29,900 --> 00:09:32,860
+No, because that's a twist on a good movie.
+
+258
+00:09:32,860 --> 00:09:34,540
+How do you feel about Skeletor and He-Man?
+
+259
+00:09:34,540 --> 00:09:36,120
+- And my bookmarks.
+
+260
+00:09:36,120 --> 00:09:42,060
+- Somehow my bookmarks on my document are gone.
+
+261
+00:09:42,060 --> 00:09:44,100
+So I can't scroll down easily.
+
+262
+00:09:44,100 --> 00:09:46,260
+- Dan, Skeletor is his enemy.
+
+263
+00:09:46,260 --> 00:09:47,140
+- And his uncle.
+
+264
+00:09:47,140 --> 00:09:47,980
+- Yeah, and his uncle.
+
+265
+00:09:47,980 --> 00:09:48,800
+- Real twisty.
+
+266
+00:09:48,800 --> 00:09:51,820
+- There's no such thing as a Skeletor free podcast.
+
+267
+00:09:51,820 --> 00:09:52,940
+- It's true. It's true.
+
+268
+00:09:52,940 --> 00:09:54,780
+All right. Well, we have one point on the board.
+
+269
+00:09:54,780 --> 00:09:56,620
+Shelly, can you get us another one?
+
+270
+00:09:56,620 --> 00:09:58,300
+- I don't know, Erica.
+
+271
+00:09:58,300 --> 00:09:59,240
+We'll find out.
+
+272
+00:09:59,240 --> 00:10:00,500
+I got a two.
+
+273
+00:10:00,500 --> 00:10:01,340
+- All right.
+
+274
+00:10:01,340 --> 00:10:02,440
+This is coming from the 2000s edition
+
+275
+00:10:02,440 --> 00:10:05,080
+in which the cards are all different colors.
+
+276
+00:10:05,080 --> 00:10:06,960
+Each color indicates a category.
+
+277
+00:10:06,960 --> 00:10:09,000
+This is the pinkish, purplish one.
+
+278
+00:10:09,000 --> 00:10:10,280
+I don't know what that means,
+
+279
+00:10:10,280 --> 00:10:12,040
+and I couldn't scroll down to it fast enough.
+
+280
+00:10:12,040 --> 00:10:14,920
+This is harder than I thought it was gonna be.
+
+281
+00:10:14,920 --> 00:10:17,520
+One second here while I find it.
+
+282
+00:10:17,520 --> 00:10:19,400
+Because knowing the category will make a huge difference
+
+283
+00:10:19,400 --> 00:10:20,600
+in whether I get it right.
+
+284
+00:10:20,600 --> 00:10:22,200
+- My second category was,
+
+285
+00:10:22,200 --> 00:10:24,640
+we gave up and there aren't any categories anymore.
+
+286
+00:10:24,640 --> 00:10:25,720
+I just wanna point out.
+
+287
+00:10:25,720 --> 00:10:26,680
+- That's true.
+
+288
+00:10:26,680 --> 00:10:29,120
+This is entertainment, it's a pink card.
+
+289
+00:10:29,120 --> 00:10:29,960
+- That makes sense.
+
+290
+00:10:29,960 --> 00:10:31,520
+- You also have a subcategory.
+
+291
+00:10:31,520 --> 00:10:35,080
+The subcategory of the card is short and sweet.
+
+292
+00:10:35,080 --> 00:10:37,760
+So keep that in mind as you answer this question.
+
+293
+00:10:37,760 --> 00:10:38,780
+- Okay.
+
+294
+00:10:38,780 --> 00:10:41,280
+- What quick-witted son of Christie
+
+295
+00:10:41,280 --> 00:10:46,280
+on the TV series "Mom" is played by Blake Garrett Rosenthal?
+
+296
+00:10:46,280 --> 00:10:49,160
+Mom is in italics.
+
+297
+00:10:49,160 --> 00:10:52,480
+Christie is spelled C-H-R-I-S-T-Y.
+
+298
+00:10:52,480 --> 00:10:54,980
+- I don't know any of those words you spoke to me.
+
+299
+00:10:54,980 --> 00:10:57,680
+We want the character, not the act,
+
+300
+00:10:57,680 --> 00:10:59,520
+you've told me the actor, so we want the character.
+
+301
+00:10:59,520 --> 00:11:01,740
+- Yeah, well, yes, the character's name.
+
+302
+00:11:01,740 --> 00:11:04,140
+And you'll need the first name.
+
+303
+00:11:04,140 --> 00:11:06,100
+- Oh, well, that makes it so much easier.
+
+304
+00:11:06,100 --> 00:11:07,140
+- Do you know any first names, Shelley?
+
+305
+00:11:07,140 --> 00:11:08,800
+Just start naming them.
+
+306
+00:11:08,800 --> 00:11:11,620
+- I should say Dan just for that, but I will not.
+
+307
+00:11:11,620 --> 00:11:12,440
+I'm gonna say Elliot.
+
+308
+00:11:12,440 --> 00:11:14,600
+That seems like a good TV character name.
+
+309
+00:11:14,600 --> 00:11:15,440
+I don't know.
+
+310
+00:11:15,440 --> 00:11:17,740
+- No, somebody named Roscoe.
+
+311
+00:11:17,740 --> 00:11:19,420
+- Roscoe is also a good TV character.
+
+312
+00:11:19,420 --> 00:11:20,660
+- Yes, I agree.
+
+313
+00:11:20,660 --> 00:11:22,780
+All right.
+
+314
+00:11:22,780 --> 00:11:24,600
+- After the first round, Jason has won.
+
+315
+00:11:24,600 --> 00:11:26,540
+(all laughing)
+
+316
+00:11:26,540 --> 00:11:27,620
+- Not won the game.
+
+317
+00:11:27,620 --> 00:11:29,260
+(all laughing)
+
+318
+00:11:29,260 --> 00:11:31,060
+- Never, never.
+
+319
+00:11:31,060 --> 00:11:32,440
+Steven determines.
+
+320
+00:11:32,440 --> 00:11:33,280
+- Yeah.
+
+321
+00:11:33,280 --> 00:11:35,820
+- I mean, if nobody scores any points
+
+322
+00:11:35,820 --> 00:11:38,820
+for the rest of the game, then technically, yes.
+
+323
+00:11:38,820 --> 00:11:40,220
+- That is how it will work.
+
+324
+00:11:40,220 --> 00:11:41,420
+No, it is back around to Monty.
+
+325
+00:11:41,420 --> 00:11:42,260
+- We played for hours,
+
+326
+00:11:42,260 --> 00:11:45,260
+but Jason actually won after 10 minutes.
+
+327
+00:11:45,260 --> 00:11:46,780
+- I rolled a two.
+
+328
+00:11:46,780 --> 00:11:47,860
+- All right, this is coming
+
+329
+00:11:47,860 --> 00:11:49,460
+from the Walt Disney Family Edition.
+
+330
+00:11:49,460 --> 00:11:51,460
+It is from the Grown-Us box.
+
+331
+00:11:51,460 --> 00:11:56,460
+Category two is, "Monty, welcome to the world of music."
+
+332
+00:11:56,460 --> 00:11:58,140
+It's one of the better worlds.
+
+333
+00:11:58,140 --> 00:12:01,700
+What key is "We Are The World" written in?
+
+334
+00:12:01,700 --> 00:12:03,940
+(laughing)
+
+335
+00:12:03,940 --> 00:12:04,780
+- Wow.
+
+336
+00:12:04,780 --> 00:12:06,260
+(laughing)
+
+337
+00:12:06,260 --> 00:12:07,940
+♪ There is a time ♪
+
+338
+00:12:07,940 --> 00:12:08,900
+- Yeah.
+
+339
+00:12:08,900 --> 00:12:12,180
+♪ When we must heed a certain call ♪
+
+340
+00:12:12,180 --> 00:12:16,580
+♪ And the world must come together as one ♪
+
+341
+00:12:16,580 --> 00:12:17,900
+- Where are my harmonies?
+
+342
+00:12:17,900 --> 00:12:20,900
+- And now I must stop this for copyright reasons.
+
+343
+00:12:20,900 --> 00:12:23,060
+We should no longer sing the rest of "We Are The World."
+
+344
+00:12:23,060 --> 00:12:25,700
+- All right, I'm gonna say G major.
+
+345
+00:12:25,700 --> 00:12:26,540
+- That is not it.
+
+346
+00:12:26,540 --> 00:12:28,540
+Steven, you have perfect pitch, do you know this?
+
+347
+00:12:28,540 --> 00:12:30,540
+I'm gonna hum it in my head and then guess.
+
+348
+00:12:30,540 --> 00:12:32,540
+(humming)
+
+349
+00:12:32,540 --> 00:12:34,540
+C major was my guess.
+
+350
+00:12:34,540 --> 00:12:36,540
+This, everybody, is your scorekeeper, humming.
+
+351
+00:12:36,540 --> 00:12:38,540
+We are the world.
+
+352
+00:12:38,540 --> 00:12:40,540
+That's the lamest key.
+
+353
+00:12:40,540 --> 00:12:42,540
+It's the best key, it's E.
+
+354
+00:12:42,540 --> 00:12:44,540
+E?
+
+355
+00:12:44,540 --> 00:12:46,540
+It just says E, not E major or E minor?
+
+356
+00:12:46,540 --> 00:12:48,540
+I object.
+
+357
+00:12:48,540 --> 00:12:50,540
+Your objection is noted.
+
+358
+00:12:50,540 --> 00:12:52,540
+To the record, an overrule.
+
+359
+00:12:52,540 --> 00:12:54,540
+Welcome back to Random Pursuit, Monty.
+
+360
+00:12:54,540 --> 00:12:56,840
+(all laughing)
+
+361
+00:12:56,840 --> 00:12:58,380
+- All right, Lauren, which roll to four?
+
+362
+00:12:58,380 --> 00:13:01,760
+- All right, this is coming from the 1980s edition.
+
+363
+00:13:01,760 --> 00:13:04,640
+Yes, it's only shiny on one side of the card,
+
+364
+00:13:04,640 --> 00:13:06,140
+but I'm not showing you the card right now because--
+
+365
+00:13:06,140 --> 00:13:06,980
+- They saved money on that.
+
+366
+00:13:06,980 --> 00:13:08,140
+- Yes. - There was a whole
+
+367
+00:13:08,140 --> 00:13:09,760
+coding process they didn't have to do.
+
+368
+00:13:09,760 --> 00:13:12,080
+- Not the totally 80s edition, just the regular 80s edition?
+
+369
+00:13:12,080 --> 00:13:13,920
+- Just the regular bad 80s edition.
+
+370
+00:13:13,920 --> 00:13:16,240
+- But more importantly, the quality and style of the card
+
+371
+00:13:16,240 --> 00:13:18,320
+has come up and that's an important aspect
+
+372
+00:13:18,320 --> 00:13:19,160
+of random pursuit. - Yeah, I'm always here
+
+373
+00:13:19,160 --> 00:13:20,000
+for card talk by Erica,
+
+374
+00:13:20,000 --> 00:13:20,820
+editorializing about production guys.
+
+375
+00:13:20,820 --> 00:13:23,780
+- After my experience with the good edition of the 80s,
+
+376
+00:13:23,780 --> 00:13:26,460
+I am skeptical.
+
+377
+00:13:26,460 --> 00:13:30,060
+- All right, well, category four is TL,
+
+378
+00:13:30,060 --> 00:13:31,820
+which I think stands for timeline.
+
+379
+00:13:31,820 --> 00:13:33,540
+- Or time.
+
+380
+00:13:33,540 --> 00:13:34,360
+- Usually I have all of these in front of me.
+
+381
+00:13:34,360 --> 00:13:35,200
+- Too long.
+
+382
+00:13:35,200 --> 00:13:36,020
+- Timeline?
+
+383
+00:13:36,020 --> 00:13:36,860
+- Timeline?
+
+384
+00:13:36,860 --> 00:13:37,700
+- I could be wrong.
+
+385
+00:13:37,700 --> 00:13:38,780
+- A category called timeline?
+
+386
+00:13:38,780 --> 00:13:40,220
+- It's just history with another name.
+
+387
+00:13:40,220 --> 00:13:41,060
+- No, I was wrong.
+
+388
+00:13:41,060 --> 00:13:42,140
+- You met a decade-
+
+389
+00:13:42,140 --> 00:13:42,980
+- It's the world.
+
+390
+00:13:42,980 --> 00:13:46,060
+- Welcome to the world of times.
+
+391
+00:13:46,060 --> 00:13:46,900
+- Ooh.
+
+392
+00:13:46,900 --> 00:13:48,340
+- No, I had it mixed up with lives and times,
+
+393
+00:13:48,340 --> 00:13:51,140
+which is a totally different game, a different edition.
+
+394
+00:13:51,140 --> 00:13:52,420
+- No, it stands for total lines.
+
+395
+00:13:52,420 --> 00:13:53,540
+- This is so much better.
+
+396
+00:13:53,540 --> 00:13:55,580
+The TL stands for that's life.
+
+397
+00:13:55,580 --> 00:13:58,580
+(all laughing)
+
+398
+00:13:58,580 --> 00:14:02,300
+So please enjoy your question about life, I guess.
+
+399
+00:14:02,300 --> 00:14:04,540
+What does the I stand for
+
+400
+00:14:04,540 --> 00:14:09,540
+in Minolta's smart Maxome 7000i camera?
+
+401
+00:14:09,540 --> 00:14:12,940
+And they're asking about the I, it's a lowercase I,
+
+402
+00:14:12,940 --> 00:14:15,920
+and Maxome is spelled M-A-X-X-U-M.
+
+403
+00:14:15,920 --> 00:14:18,660
+It's italicized, and then there's the 7000,
+
+404
+00:14:18,660 --> 00:14:21,100
+seven, zero, zero, zero, and a lowercase I.
+
+405
+00:14:21,100 --> 00:14:22,580
+So what does that I stand for
+
+406
+00:14:22,580 --> 00:14:25,340
+in Minolta's smart Maxim 7000i camera?
+
+407
+00:14:25,340 --> 00:14:31,420
+The only thing I can think of is ISO,
+
+408
+00:14:31,420 --> 00:14:34,260
+but presumably that's its own acronym.
+
+409
+00:14:34,260 --> 00:14:36,700
+So that's probably not right.
+
+410
+00:14:36,700 --> 00:14:44,180
+Intelligent.
+
+411
+00:14:44,180 --> 00:14:45,020
+- It's a good guess.
+
+412
+00:14:45,020 --> 00:14:46,820
+- I'm gonna give it to you 'cause it's intelligence.
+
+413
+00:14:46,820 --> 00:14:49,220
+- Oh, hooray! - Good job.
+
+414
+00:14:49,220 --> 00:14:51,820
+- The snells are on the board, the rest of us suck.
+
+415
+00:14:51,820 --> 00:14:53,740
+That's right, so you get to roll again.
+
+416
+00:14:53,740 --> 00:14:57,060
+$7,000, too much for our cameras.
+
+417
+00:14:57,060 --> 00:14:57,980
+But it sees so well.
+
+418
+00:14:57,980 --> 00:14:59,440
+It's a biblically accurate camera.
+
+419
+00:14:59,440 --> 00:15:00,340
+I rolled a one.
+
+420
+00:15:00,340 --> 00:15:01,140
+All right.
+
+421
+00:15:01,140 --> 00:15:03,700
+This is coming from the 20th anniversary edition, no longer
+
+422
+00:15:03,700 --> 00:15:05,300
+my least favorite edition.
+
+423
+00:15:05,300 --> 00:15:07,140
+Category one is global view.
+
+424
+00:15:07,140 --> 00:15:08,620
+Did it get better?
+
+425
+00:15:08,620 --> 00:15:09,120
+No.
+
+426
+00:15:09,120 --> 00:15:11,500
+Something worse arrived.
+
+427
+00:15:11,500 --> 00:15:13,540
+Publish the rankings.
+
+428
+00:15:13,540 --> 00:15:15,460
+Ooh, that would be fun.
+
+429
+00:15:15,460 --> 00:15:17,140
+Global view is your category.
+
+430
+00:15:17,140 --> 00:15:20,380
+What California city was described by columnist Jim
+
+431
+00:15:20,380 --> 00:15:23,980
+Murray as quote, under policed and over sexed.
+
+432
+00:15:23,980 --> 00:15:26,780
+- So many.
+
+433
+00:15:26,780 --> 00:15:31,460
+- California, does that narrow it down?
+
+434
+00:15:31,460 --> 00:15:33,140
+- San Francisco?
+
+435
+00:15:33,140 --> 00:15:34,320
+- It's not.
+
+436
+00:15:34,320 --> 00:15:35,160
+- Los Angeles?
+
+437
+00:15:35,160 --> 00:15:35,980
+- It is Los Angeles.
+
+438
+00:15:35,980 --> 00:15:37,660
+- Jim Murray was a sports columnist at the LA Times.
+
+439
+00:15:37,660 --> 00:15:38,980
+- Oh, he was, that's right.
+
+440
+00:15:38,980 --> 00:15:39,820
+- I would have guessed San Francisco.
+
+441
+00:15:39,820 --> 00:15:42,500
+- You had background information that I did not have.
+
+442
+00:15:42,500 --> 00:15:43,340
+- I would have guessed Oakland.
+
+443
+00:15:43,340 --> 00:15:44,160
+- People like insulting Oakland.
+
+444
+00:15:44,160 --> 00:15:45,000
+- Yes, they do.
+
+445
+00:15:45,000 --> 00:15:45,820
+- That's true.
+
+446
+00:15:45,820 --> 00:15:46,660
+- There's no there there.
+
+447
+00:15:46,660 --> 00:15:48,500
+- But you got on the board, so those are good terms.
+
+448
+00:15:48,500 --> 00:15:50,100
+- I got on the board, that was my goal
+
+449
+00:15:50,100 --> 00:15:51,900
+for this entire game.
+
+450
+00:15:51,900 --> 00:15:53,740
+- Lauren has won.
+
+451
+00:15:53,740 --> 00:15:56,320
+(all laughing)
+
+452
+00:15:56,320 --> 00:15:58,580
+- Five, please, Erika.
+
+453
+00:15:58,580 --> 00:16:00,060
+- All right, this is coming from
+
+454
+00:16:00,060 --> 00:16:01,900
+the Trivial Pursuit Millennium Edition.
+
+455
+00:16:01,900 --> 00:16:04,560
+Remember, not millennial, millennium.
+
+456
+00:16:04,560 --> 00:16:08,180
+Category five is sports and leisure.
+
+457
+00:16:08,180 --> 00:16:11,220
+- Move on.
+
+458
+00:16:11,220 --> 00:16:13,300
+- Who became the first NFL quarterback
+
+459
+00:16:13,300 --> 00:16:17,320
+to pass for 50,000 career yards in 1996?
+
+460
+00:16:17,320 --> 00:16:18,600
+-Steven's posture just changed.
+
+461
+00:16:18,600 --> 00:16:19,720
+I feel like he knows this one.
+
+462
+00:16:19,720 --> 00:16:26,280
+-In 1996, I could name some quarterbacks.
+
+463
+00:16:26,280 --> 00:16:28,440
+I don't know if I, yeah.
+
+464
+00:16:28,440 --> 00:16:33,320
+I'm just going to go with the one that is the one that I obviously
+
+465
+00:16:33,320 --> 00:16:35,320
+sometimes get mistaken for, Dan Marino.
+
+466
+00:16:35,320 --> 00:16:36,800
+-You got it.
+
+467
+00:16:36,800 --> 00:16:37,800
+-It's Dan Marino.
+
+468
+00:16:37,800 --> 00:16:39,400
+-It is totally Dan Marino.
+
+469
+00:16:39,400 --> 00:16:39,920
+Good job.
+
+470
+00:16:39,920 --> 00:16:41,880
+-Wow.
+
+471
+00:16:41,880 --> 00:16:44,560
+-When I try to search sometimes, it's like, "Did you mean Dan Marino?"
+
+472
+00:16:44,560 --> 00:16:46,000
+There you go.
+
+473
+00:16:46,000 --> 00:16:49,360
+I wrote a one please.
+
+474
+00:16:49,360 --> 00:16:50,800
+All right, this is coming from genus three.
+
+475
+00:16:50,800 --> 00:16:53,200
+Category one is people in places.
+
+476
+00:16:53,200 --> 00:16:56,900
+How old was Drew Barrymore when she began drinking?
+
+477
+00:16:56,900 --> 00:17:01,240
+You were there, you remember?
+
+478
+00:17:01,240 --> 00:17:04,160
+Yeah, I remember back at a party, me and Drew.
+
+479
+00:17:04,160 --> 00:17:05,360
+I feel really uncomfortable.
+
+480
+00:17:05,360 --> 00:17:08,720
+I'm guessing that answer is way younger than it should be.
+
+481
+00:17:08,720 --> 00:17:13,360
+How young, how young is too young?
+
+482
+00:17:13,360 --> 00:17:14,940
+How young is disturbingly young?
+
+483
+00:17:14,940 --> 00:17:18,000
+Let's say nine.
+
+484
+00:17:18,000 --> 00:17:18,840
+- You were so close.
+
+485
+00:17:18,840 --> 00:17:19,960
+- Is it 10?
+
+486
+00:17:19,960 --> 00:17:20,800
+- It was eight.
+
+487
+00:17:20,800 --> 00:17:23,020
+- Oh, I was at seven and then I went off.
+
+488
+00:17:23,020 --> 00:17:25,720
+I think it was on the set of "Firestarter."
+
+489
+00:17:25,720 --> 00:17:26,800
+- Wow.
+
+490
+00:17:26,800 --> 00:17:27,640
+- Dang, Joe.
+
+491
+00:17:27,640 --> 00:17:28,460
+- So picture her there.
+
+492
+00:17:28,460 --> 00:17:30,600
+(all laughing)
+
+493
+00:17:30,600 --> 00:17:32,800
+- All right, well, you're on the board.
+
+494
+00:17:32,800 --> 00:17:34,000
+You're on the board, yes, congratulations.
+
+495
+00:17:34,000 --> 00:17:35,540
+- Dan Morin has won.
+
+496
+00:17:35,540 --> 00:17:36,720
+(all laughing)
+
+497
+00:17:36,720 --> 00:17:38,800
+- All right, go ahead, Jason.
+
+498
+00:17:38,800 --> 00:17:40,840
+- I'm so used to being told to play,
+
+499
+00:17:40,840 --> 00:17:43,200
+but we are all just in order here.
+
+500
+00:17:43,200 --> 00:17:45,680
+- Actually, it's actually Czechs trivia time.
+
+501
+00:17:45,680 --> 00:17:47,880
+I just realized I forgot to make Monty roll a D8
+
+502
+00:17:47,880 --> 00:17:51,320
+the first time, but now we're taking advantage
+
+503
+00:17:51,320 --> 00:17:53,040
+of all eight questions on the card.
+
+504
+00:17:53,040 --> 00:17:53,880
+- Number four.
+
+505
+00:17:53,880 --> 00:17:54,700
+- All right.
+
+506
+00:17:54,700 --> 00:17:55,540
+- So not really.
+
+507
+00:17:55,540 --> 00:17:56,360
+(laughing)
+
+508
+00:17:56,360 --> 00:17:57,200
+- No.
+
+509
+00:17:57,200 --> 00:17:59,840
+All right, this is from Czechs music trivia.
+
+510
+00:17:59,840 --> 00:18:01,240
+The fourth question is,
+
+511
+00:18:01,240 --> 00:18:06,240
+what well-known slogan was associated with Sammy K?
+
+512
+00:18:06,240 --> 00:18:08,800
+That's K-A-Y-E, Sammy K.
+
+513
+00:18:08,800 --> 00:18:10,960
+It's a well-known slogan, Jason.
+
+514
+00:18:10,960 --> 00:18:12,720
+- I can't believe you don't know this.
+
+515
+00:18:12,720 --> 00:18:17,720
+Sammy K. I mean, who among us remembers Sammy K?
+
+516
+00:18:17,720 --> 00:18:23,020
+- Nobody's raising their hands.
+
+517
+00:18:23,020 --> 00:18:23,860
+- Nope.
+
+518
+00:18:23,860 --> 00:18:26,400
+- I'm gonna say,
+
+519
+00:18:26,400 --> 00:18:30,320
+Rock Around the Clock.
+
+520
+00:18:30,320 --> 00:18:32,960
+- I mean, you're coming to the right neighborhood.
+
+521
+00:18:32,960 --> 00:18:36,560
+It's a swing and sway with Sammy K.
+
+522
+00:18:36,560 --> 00:18:37,400
+- Of course it is.
+
+523
+00:18:37,400 --> 00:18:38,220
+- Tip of my tongue.
+
+524
+00:18:38,220 --> 00:18:39,400
+- Big, big band guys.
+
+525
+00:18:39,400 --> 00:18:40,240
+So a little before Rock Around the Clock.
+
+526
+00:18:40,240 --> 00:18:41,080
+- Ah, big band.
+
+527
+00:18:41,080 --> 00:18:41,900
+- Oh, okay.
+
+528
+00:18:41,900 --> 00:18:43,960
+All right, Shelly, it is now your turn.
+
+529
+00:18:43,960 --> 00:18:46,220
+- I still have one.
+
+530
+00:18:46,220 --> 00:18:48,620
+You got it.
+
+531
+00:18:48,620 --> 00:18:49,460
+- Yeah, Jason still has one.
+
+532
+00:18:49,460 --> 00:18:50,280
+- No.
+
+533
+00:18:50,280 --> 00:18:51,120
+- Five.
+
+534
+00:18:51,120 --> 00:18:51,960
+- All right, a five for Shelly.
+
+535
+00:18:51,960 --> 00:18:54,140
+- I should tell the microphones, hello, I'm alive.
+
+536
+00:18:54,140 --> 00:18:55,500
+- All right, this is coming from the DVD
+
+537
+00:18:55,500 --> 00:18:56,820
+Pop Culture Edition.
+
+538
+00:18:56,820 --> 00:18:58,780
+Category five is Buzz.
+
+539
+00:18:58,780 --> 00:19:00,700
+Whatever.
+
+540
+00:19:00,700 --> 00:19:01,540
+- It's about bees, it's all about bees.
+
+541
+00:19:01,540 --> 00:19:02,700
+- It's all about bees.
+
+542
+00:19:02,700 --> 00:19:06,180
+- What member of the British Royal Family
+
+543
+00:19:06,180 --> 00:19:09,620
+is the author of the Budgie the, sorry,
+
+544
+00:19:09,620 --> 00:19:13,100
+of the "Budgie the Little Helicopter" children's books.
+
+545
+00:19:13,100 --> 00:19:14,640
+It's a whole series apparently.
+
+546
+00:19:14,640 --> 00:19:16,420
+So we need a member of the British royal family.
+
+547
+00:19:16,420 --> 00:19:17,540
+- I know about them.
+
+548
+00:19:17,540 --> 00:19:18,420
+British royal family.
+
+549
+00:19:18,420 --> 00:19:21,220
+I'm just gonna guess princess somebody.
+
+550
+00:19:21,220 --> 00:19:24,100
+No, I'm gonna guess princess Anne.
+
+551
+00:19:24,100 --> 00:19:25,980
+- It was Sarah Ferguson.
+
+552
+00:19:25,980 --> 00:19:26,820
+- Oh, Fergie.
+
+553
+00:19:26,820 --> 00:19:27,660
+- That was my guess.
+
+554
+00:19:27,660 --> 00:19:29,940
+I was like, please don't let it be Prince Andrew.
+
+555
+00:19:29,940 --> 00:19:32,180
+(all laughing)
+
+556
+00:19:32,180 --> 00:19:33,020
+Real bad.
+
+557
+00:19:33,020 --> 00:19:33,840
+- Luckily it was not.
+
+558
+00:19:33,840 --> 00:19:35,900
+All right, Stephen, how do we stand?
+
+559
+00:19:35,900 --> 00:19:37,500
+- Some of you have won.
+
+560
+00:19:37,500 --> 00:19:38,660
+The rest of you have not.
+
+561
+00:19:38,660 --> 00:19:41,860
+(all laughing)
+
+562
+00:19:41,860 --> 00:19:44,380
+- That into the table has won.
+
+563
+00:19:44,380 --> 00:19:46,700
+- All right, yeah, the people who are closer to me have not.
+
+564
+00:19:46,700 --> 00:19:48,300
+I feel a little sad for them.
+
+565
+00:19:48,300 --> 00:19:49,700
+All right, Monty, what'd you roll?
+
+566
+00:19:49,700 --> 00:19:50,700
+- I rolled a five.
+
+567
+00:19:50,700 --> 00:19:52,100
+- All right, this is coming from Trivial Pursuit,
+
+568
+00:19:52,100 --> 00:19:55,300
+Genus 4, category 5 is sports and leisure.
+
+569
+00:19:55,300 --> 00:19:58,060
+What golfer bid a tearful farewell to fans
+
+570
+00:19:58,060 --> 00:20:01,800
+after playing his last US Open in 1994?
+
+571
+00:20:01,800 --> 00:20:05,900
+- Lee Trevino.
+
+572
+00:20:05,900 --> 00:20:07,820
+- It was not, it was Arnold Palmer.
+
+573
+00:20:07,820 --> 00:20:09,720
+- All right, well, that means I was,
+
+574
+00:20:09,720 --> 00:20:13,180
+Link Trovino probably stopped around then.
+
+575
+00:20:13,180 --> 00:20:14,100
+They were contemporaries.
+
+576
+00:20:14,100 --> 00:20:15,800
+- I have no idea about any of these things.
+
+577
+00:20:15,800 --> 00:20:17,240
+So sure, yeah, good job.
+
+578
+00:20:17,240 --> 00:20:20,440
+- I rolled a three.
+
+579
+00:20:20,440 --> 00:20:22,340
+- All right, ooh, this is coming from the Decades edition,
+
+580
+00:20:22,340 --> 00:20:24,440
+which I think is my newest edition,
+
+581
+00:20:24,440 --> 00:20:28,540
+which has no even letters on here
+
+582
+00:20:28,540 --> 00:20:30,640
+to tell me what these categories might be.
+
+583
+00:20:30,640 --> 00:20:33,800
+So this is dropping in my rankings.
+
+584
+00:20:33,800 --> 00:20:35,760
+I will tell you that right now.
+
+585
+00:20:35,760 --> 00:20:38,040
+Category three is news alert.
+
+586
+00:20:38,040 --> 00:20:38,880
+- Gosh.
+
+587
+00:20:38,880 --> 00:20:39,700
+- Yeah.
+
+588
+00:20:39,700 --> 00:20:40,540
+(mimics alarm)
+
+589
+00:20:40,540 --> 00:20:42,680
+- Not to be confused with fuzz.
+
+590
+00:20:42,680 --> 00:20:43,880
+- That's life.
+
+591
+00:20:43,880 --> 00:20:46,200
+- What island country was the starting point
+
+592
+00:20:46,200 --> 00:20:49,760
+for Diana Nyad's historic 103 mile swim,
+
+593
+00:20:49,760 --> 00:20:53,160
+which ended on the shores of Key West in 2013?
+
+594
+00:20:53,160 --> 00:20:56,500
+How far?
+
+595
+00:20:56,500 --> 00:20:59,640
+Island country, and it was 103 miles.
+
+596
+00:20:59,640 --> 00:21:03,660
+So 103 miles away from Key West, you will find.
+
+597
+00:21:05,160 --> 00:21:06,880
+Okay, Cuba's not that far.
+
+598
+00:21:06,880 --> 00:21:09,880
+Cuba's only like 26 miles from Florida,
+
+599
+00:21:09,880 --> 00:21:11,760
+but that's literally all the geography
+
+600
+00:21:11,760 --> 00:21:13,200
+I know about that region.
+
+601
+00:21:13,200 --> 00:21:19,160
+What's further than that?
+
+602
+00:21:19,160 --> 00:21:24,160
+I have Island Nation, the island, the country?
+
+603
+00:21:24,160 --> 00:21:28,800
+- Yeah, you were looking for the island country.
+
+604
+00:21:28,800 --> 00:21:30,700
+- Oh, both. - That's the way it says.
+
+605
+00:21:30,700 --> 00:21:34,480
+- Bahamas.
+
+606
+00:21:34,480 --> 00:21:36,040
+- It is actually Cuba.
+
+607
+00:21:36,040 --> 00:21:36,880
+- Cuba.
+
+608
+00:21:36,880 --> 00:21:37,720
+- It is not.
+
+609
+00:21:37,720 --> 00:21:38,680
+- Key West is very far from Florida.
+
+610
+00:21:38,680 --> 00:21:41,800
+- Yeah, I think Key West must be so far south.
+
+611
+00:21:41,800 --> 00:21:44,120
+- They always say Cuba is 90 miles from Florida,
+
+612
+00:21:44,120 --> 00:21:45,900
+Key West is further.
+
+613
+00:21:45,900 --> 00:21:48,240
+- Yes, and apparently this is one of the newer cards
+
+614
+00:21:48,240 --> 00:21:50,160
+that tells you a little extra information.
+
+615
+00:21:50,160 --> 00:21:52,200
+It took her 53 hours.
+
+616
+00:21:52,200 --> 00:21:53,440
+- Okay.
+
+617
+00:21:53,440 --> 00:21:56,960
+- It's Catalina that is 26 miles from LA.
+
+618
+00:21:56,960 --> 00:21:59,600
+Cuba is 90 miles from Florida.
+
+619
+00:21:59,600 --> 00:22:02,720
+- For those that remember their Cuban Missile Crisis trivia.
+
+620
+00:22:02,720 --> 00:22:04,240
+And for those of us who've been to Cuba,
+
+621
+00:22:04,240 --> 00:22:07,760
+I imagine I'm the only one who is allowed to go at this table. So yeah.
+
+622
+00:22:07,760 --> 00:22:10,000
+Oh, you now, welcome to Cuba.
+
+623
+00:22:10,000 --> 00:22:14,400
+They might not let her back in.
+
+624
+00:22:14,400 --> 00:22:16,000
+That is not the undisclosed location.
+
+625
+00:22:16,000 --> 00:22:18,720
+And yeah, if she went to Cuba, the US might not let her back in.
+
+626
+00:22:18,720 --> 00:22:19,200
+That's true.
+
+627
+00:22:19,200 --> 00:22:20,000
+Yep.
+
+628
+00:22:20,000 --> 00:22:22,000
+All right. Next is Dan.
+
+629
+00:22:22,000 --> 00:22:23,520
+Three, please.
+
+630
+00:22:23,520 --> 00:22:25,680
+All right. This is coming from the Doctor Who edition.
+
+631
+00:22:25,680 --> 00:22:30,320
+This is the 2018 edition that goes all the way through one season of Jodie Whittaker.
+
+632
+00:22:30,320 --> 00:22:32,960
+Category episodes and stories.
+
+633
+00:22:32,960 --> 00:22:39,840
+In the story, the empty child, what spooky phrase did the child and the gas mask repeat over and over?
+
+634
+00:22:39,840 --> 00:22:40,800
+Are you my mommy?
+
+635
+00:22:40,800 --> 00:22:42,080
+That one I knew.
+
+636
+00:22:42,080 --> 00:22:46,480
+You got it. And everybody got to watch me turn the card the correct way, upright,
+
+637
+00:22:46,480 --> 00:22:49,040
+and then have to flip it over because it goes side to side.
+
+638
+00:22:49,040 --> 00:22:52,000
+I appreciate that you even check the answers on the Doctor Who card.
+
+639
+00:22:52,000 --> 00:22:54,400
+I mean, sometimes they're wrong.
+
+640
+00:22:54,400 --> 00:22:56,160
+Right. You have to get the wrong answer though.
+
+641
+00:22:56,160 --> 00:22:59,760
+Let's hope that doesn't happen. I don't want to have to think that hard about it.
+
+642
+00:22:59,760 --> 00:23:06,720
+it is. That's a three. What category was that? That was also a three so you get to choose your edition.
+
+643
+00:23:06,720 --> 00:23:16,120
+Hot dog. Let's go start. I don't have a hot dog edition. Hot dog the movie edition. But I do have Star Wars. Oh and guess what?
+
+644
+00:23:16,120 --> 00:23:20,400
+It's another one with a picture on the back. I'm gonna pass this around. Keep your
+
+645
+00:23:20,400 --> 00:23:25,600
+face down. Yes. No cheating. I'm watching you. I'm not cheating. Tell us what the picture is.
+
+646
+00:23:25,600 --> 00:23:28,800
+- This is a picture of Coruscant, I believe,
+
+647
+00:23:28,800 --> 00:23:32,200
+at the end of Return of the Jedi.
+
+648
+00:23:32,200 --> 00:23:33,040
+It's one of the--
+
+649
+00:23:33,040 --> 00:23:33,880
+- Special edition. - Special edition.
+
+650
+00:23:33,880 --> 00:23:35,040
+- Thank you for the clarification.
+
+651
+00:23:35,040 --> 00:23:35,920
+- Yes. - Yes.
+
+652
+00:23:35,920 --> 00:23:38,760
+I mean, this edition did come with a very small package
+
+653
+00:23:38,760 --> 00:23:41,920
+of cards that are about the prequels.
+
+654
+00:23:41,920 --> 00:23:43,080
+- I had that edition, yeah.
+
+655
+00:23:43,080 --> 00:23:45,280
+- Those are not included in my deck.
+
+656
+00:23:45,280 --> 00:23:46,200
+Maybe I will add them,
+
+657
+00:23:46,200 --> 00:23:48,640
+but right now they're just like underneath the thing.
+
+658
+00:23:48,640 --> 00:23:50,240
+- If you need more cards, you know.
+
+659
+00:23:50,240 --> 00:23:52,120
+- Right, I'm running so low.
+
+660
+00:23:52,120 --> 00:23:54,000
+All right, category three is history.
+
+661
+00:23:54,000 --> 00:23:56,360
+Remember, this is the history of the Star Wars world,
+
+662
+00:23:56,360 --> 00:23:57,380
+not ours.
+
+663
+00:23:57,380 --> 00:23:59,140
+- You say that like they're different things.
+
+664
+00:23:59,140 --> 00:24:00,960
+You say that like he knows our world's history
+
+665
+00:24:00,960 --> 00:24:01,800
+better than Star Wars.
+
+666
+00:24:01,800 --> 00:24:03,640
+(laughing)
+
+667
+00:24:03,640 --> 00:24:04,840
+- Touche.
+
+668
+00:24:04,840 --> 00:24:07,280
+What do people pass over their heads
+
+669
+00:24:07,280 --> 00:24:11,360
+at the end of Return of the Jedi Special Edition?
+
+670
+00:24:11,360 --> 00:24:13,280
+What do people pass over their heads
+
+671
+00:24:13,280 --> 00:24:15,640
+at the end of Return of the Jedi Special Edition?
+
+672
+00:24:15,640 --> 00:24:18,000
+- What do they pass over their heads?
+
+673
+00:24:18,000 --> 00:24:21,480
+- Weird question.
+
+674
+00:24:21,480 --> 00:24:23,360
+- I have a thought and I'm trying to figure out
+
+675
+00:24:23,360 --> 00:24:25,360
+how to write the right way to phrase it.
+
+676
+00:24:25,360 --> 00:24:27,720
+Pass over their head.
+
+677
+00:24:27,720 --> 00:24:29,360
+What do they, sorry, can we read one more time?
+
+678
+00:24:29,360 --> 00:24:30,340
+- Sure.
+
+679
+00:24:30,340 --> 00:24:32,720
+What do people pass over their heads
+
+680
+00:24:32,720 --> 00:24:36,240
+at the end of "Return of the Jedi" special edition?
+
+681
+00:24:36,240 --> 00:24:38,360
+"Return of the Jedi" special edition is italicized.
+
+682
+00:24:38,360 --> 00:24:40,920
+I don't know if that helps. - Thank you, I appreciate that.
+
+683
+00:24:40,920 --> 00:24:45,920
+Is it a fallen, like parts of a statue of the emperor?
+
+684
+00:24:45,920 --> 00:24:47,920
+- It is not.
+
+685
+00:24:47,920 --> 00:24:49,280
+It's a stormtrooper.
+
+686
+00:24:49,280 --> 00:24:51,420
+- Oh. - Even darker.
+
+687
+00:24:51,420 --> 00:24:53,140
+- Man, I have not watched the special edition
+
+688
+00:24:53,140 --> 00:24:55,100
+of any game quite some time.
+
+689
+00:24:55,100 --> 00:24:57,140
+- The latest special edition passes the guy
+
+690
+00:24:57,140 --> 00:24:59,640
+who sings "Jedi Rocks" over there.
+
+691
+00:24:59,640 --> 00:25:00,820
+- Is he singing at the time?
+
+692
+00:25:00,820 --> 00:25:01,820
+- No, he is dead.
+
+693
+00:25:01,820 --> 00:25:04,540
+(all laughing)
+
+694
+00:25:04,540 --> 00:25:05,380
+- Makes it extra special.
+
+695
+00:25:05,380 --> 00:25:07,020
+- As is right and proper.
+
+696
+00:25:07,020 --> 00:25:08,020
+All right, Jason.
+
+697
+00:25:08,020 --> 00:25:08,860
+- Four.
+
+698
+00:25:08,860 --> 00:25:10,220
+- All right, it's coming from Genus3.
+
+699
+00:25:10,220 --> 00:25:12,460
+Category four is science and nature.
+
+700
+00:25:12,460 --> 00:25:15,140
+What does the government label, sorry,
+
+701
+00:25:15,140 --> 00:25:17,100
+what does the government label you
+
+702
+00:25:17,100 --> 00:25:20,380
+if you have 10% or less of normal vision?
+
+703
+00:25:20,380 --> 00:25:26,140
+- Legally blind? - That's it. Roll again.
+
+704
+00:25:26,140 --> 00:25:30,820
+- As someone who is legally blind, I have never heard that defined in that way, ever.
+
+705
+00:25:30,820 --> 00:25:36,220
+- It contains less than 10% of the time.
+
+706
+00:25:36,220 --> 00:25:40,260
+- Four. - All right. That's another four. So you get
+
+707
+00:25:40,260 --> 00:25:42,260
+to choose. - Was it?
+
+708
+00:25:42,260 --> 00:25:43,260
+- Yeah. - Oh.
+
+709
+00:25:43,260 --> 00:25:48,780
+- Yep. That was a... Wait. You did roll four last time, correct? Or did I read the wrong
+
+710
+00:25:48,780 --> 00:25:50,780
+- I don't remember. - I don't remember either.
+
+711
+00:25:50,780 --> 00:25:51,780
+- Then yeah, choose your edition.
+
+712
+00:25:51,780 --> 00:25:52,780
+- Check the audio.
+
+713
+00:25:52,780 --> 00:25:53,780
+- Disney Kids.
+
+714
+00:25:53,780 --> 00:25:54,780
+- All right.
+
+715
+00:25:54,780 --> 00:25:55,780
+- I'm here to win.
+
+716
+00:25:55,780 --> 00:25:56,780
+- Yeah, just question it.
+
+717
+00:25:56,780 --> 00:25:57,780
+- Oops.
+
+718
+00:25:57,780 --> 00:25:58,780
+The Baby Boomer and the Disney Kids questions
+
+719
+00:25:58,780 --> 00:25:59,780
+have the same color in the background of the card.
+
+720
+00:25:59,780 --> 00:26:00,780
+- I'm sure you can detect which is which.
+
+721
+00:26:00,780 --> 00:26:01,780
+- And I, yeah, I think you would probably be very unhappy
+
+722
+00:26:01,780 --> 00:26:02,780
+if I picked the wrong one.
+
+723
+00:26:02,780 --> 00:26:03,780
+- We had the Baby Boomer edition at home
+
+724
+00:26:03,780 --> 00:26:04,780
+and the Silver Screen.
+
+725
+00:26:04,780 --> 00:26:05,780
+They're both very difficult and I don't like them.
+
+726
+00:26:05,780 --> 00:26:06,780
+- Jason, welcome to the world of fantasy.
+
+727
+00:26:06,780 --> 00:26:07,780
+- Okay, all right.
+
+728
+00:26:07,780 --> 00:26:08,780
+- My favorite of the worlds.
+
+729
+00:26:08,780 --> 00:26:09,780
+What does the cat do?
+
+730
+00:26:09,780 --> 00:26:10,780
+- I don't know.
+
+731
+00:26:10,780 --> 00:26:11,780
+- I don't know.
+
+732
+00:26:11,780 --> 00:26:13,580
+and they're both very difficult and I don't like them.
+
+733
+00:26:13,580 --> 00:26:15,860
+- Jason, welcome to the world of fantasy.
+
+734
+00:26:15,860 --> 00:26:16,700
+- Okay, hooray.
+
+735
+00:26:16,700 --> 00:26:17,820
+- My favorite of the worlds.
+
+736
+00:26:17,820 --> 00:26:20,580
+What does the caterpillar in "Alice in Wonderland"
+
+737
+00:26:20,580 --> 00:26:24,360
+sit on, a mushroom or a toadstool?
+
+738
+00:26:24,360 --> 00:26:26,660
+(all laughing)
+
+739
+00:26:26,660 --> 00:26:27,500
+- Harder than you thought.
+
+740
+00:26:27,500 --> 00:26:29,140
+- Okay, okay.
+
+741
+00:26:29,140 --> 00:26:30,940
+- For a children's- - Respect.
+
+742
+00:26:30,940 --> 00:26:34,440
+- Multiple choice with only two choices question,
+
+743
+00:26:34,440 --> 00:26:36,020
+this is actually hard.
+
+744
+00:26:36,020 --> 00:26:38,180
+I'm going to say toadstool.
+
+745
+00:26:38,180 --> 00:26:39,020
+- It's a mushroom.
+
+746
+00:26:39,020 --> 00:26:40,660
+(all laughing)
+
+747
+00:26:40,660 --> 00:26:42,620
+- I like that Jason and I both got you pick cards
+
+748
+00:26:42,620 --> 00:26:45,060
+and things we've never really seen.
+
+749
+00:26:45,060 --> 00:26:47,220
+- I know, that makes it hurt all the more.
+
+750
+00:26:47,220 --> 00:26:49,660
+- Totes still seem more fantastic.
+
+751
+00:26:49,660 --> 00:26:50,500
+- I agree.
+
+752
+00:26:50,500 --> 00:26:51,580
+- I have rolled a three.
+
+753
+00:26:51,580 --> 00:26:52,780
+- All right, well, this is also coming
+
+754
+00:26:52,780 --> 00:26:55,660
+from the Disney edition kids box
+
+755
+00:26:55,660 --> 00:26:56,740
+because that's what was next.
+
+756
+00:26:56,740 --> 00:26:57,740
+- Mushroom.
+
+757
+00:26:57,740 --> 00:27:00,540
+- So category three, welcome to the world of people,
+
+758
+00:27:00,540 --> 00:27:01,980
+possibly the worst of all the world.
+
+759
+00:27:01,980 --> 00:27:03,220
+(all laughing)
+
+760
+00:27:03,220 --> 00:27:04,060
+- I agree.
+
+761
+00:27:04,060 --> 00:27:05,140
+- Publish the rankings.
+
+762
+00:27:05,140 --> 00:27:09,060
+- Who's running with a speeding ticket
+
+763
+00:27:09,060 --> 00:27:13,000
+inspired the Mickey Mouse cartoon Traffic Troubles?
+
+764
+00:27:13,000 --> 00:27:14,520
+- Wait, read that again, please.
+
+765
+00:27:14,520 --> 00:27:16,740
+- Who's run-in with a speeding ticket
+
+766
+00:27:16,740 --> 00:27:19,660
+inspired the Mickey Mouse cartoon Traffic Troubles?
+
+767
+00:27:19,660 --> 00:27:21,140
+- They like ran into the speeding ticket?
+
+768
+00:27:21,140 --> 00:27:23,300
+- No, run in with, I guess.
+
+769
+00:27:23,300 --> 00:27:24,220
+Run in.
+
+770
+00:27:24,220 --> 00:27:25,660
+- They like to make these questions
+
+771
+00:27:25,660 --> 00:27:27,440
+sort of artful in their phrasing,
+
+772
+00:27:27,440 --> 00:27:30,940
+but I think it boils down to who got a speeding ticket
+
+773
+00:27:30,940 --> 00:27:32,420
+and then wrote this cartoon.
+
+774
+00:27:32,420 --> 00:27:33,500
+- Okay, so Mickey Mouse.
+
+775
+00:27:33,500 --> 00:27:35,800
+So clearly Disney, not Warner Brothers
+
+776
+00:27:35,800 --> 00:27:37,860
+that I had in my head for a second there.
+
+777
+00:27:39,000 --> 00:27:40,300
+traffic troubles.
+
+778
+00:27:40,300 --> 00:27:43,880
+I don't know, Minnie Mouse.
+
+779
+00:27:43,880 --> 00:27:47,740
+- I think you were off the track a little bit there.
+
+780
+00:27:47,740 --> 00:27:49,200
+The answer is actually Walt Disney.
+
+781
+00:27:49,200 --> 00:27:50,960
+- Oh, I see.
+
+782
+00:27:50,960 --> 00:27:52,160
+Yeah, yeah, yeah.
+
+783
+00:27:52,160 --> 00:27:54,800
+And that was one of the different editions
+
+784
+00:27:54,800 --> 00:27:56,680
+have different like good basic answers.
+
+785
+00:27:56,680 --> 00:27:57,880
+If it's the Walt Disney edition
+
+786
+00:27:57,880 --> 00:27:59,960
+and it's a Disney question and it's a real person,
+
+787
+00:27:59,960 --> 00:28:01,440
+it's just Walt Disney.
+
+788
+00:28:01,440 --> 00:28:02,720
+- You did say world of people.
+
+789
+00:28:02,720 --> 00:28:05,000
+I'm a mountain listing comprehension
+
+790
+00:28:05,000 --> 00:28:06,240
+is not doing well today.
+
+791
+00:28:07,600 --> 00:28:11,320
+- All right, after three rounds, goodness me,
+
+792
+00:28:11,320 --> 00:28:15,360
+Dan and Jason have actual scores of two.
+
+793
+00:28:15,360 --> 00:28:17,720
+Lauren has one point and Shelley and Monty
+
+794
+00:28:17,720 --> 00:28:19,880
+still looking to get on the board.
+
+795
+00:28:19,880 --> 00:28:22,800
+- All right, Monty, this might be your time
+
+796
+00:28:22,800 --> 00:28:25,160
+because it's junior trivia.
+
+797
+00:28:25,160 --> 00:28:29,000
+- I'm rolling a die supposedly made from a Civil War bullet.
+
+798
+00:28:29,000 --> 00:28:30,520
+- Wow.
+
+799
+00:28:30,520 --> 00:28:31,400
+- It is a one.
+
+800
+00:28:31,400 --> 00:28:32,440
+- All right, well, it would be cool
+
+801
+00:28:32,440 --> 00:28:34,520
+if this was a Civil War question, but it's not.
+
+802
+00:28:34,520 --> 00:28:36,520
+This is coming from junior trivia two.
+
+803
+00:28:36,520 --> 00:28:40,760
+So think like a 10 to 13 year old from 1983 or four,
+
+804
+00:28:40,760 --> 00:28:41,800
+somewhere in there.
+
+805
+00:28:41,800 --> 00:28:42,640
+- Poop.
+
+806
+00:28:42,640 --> 00:28:44,640
+(laughing)
+
+807
+00:28:44,640 --> 00:28:45,480
+Nailed it.
+
+808
+00:28:45,480 --> 00:28:46,920
+- You're on a good start there.
+
+809
+00:28:46,920 --> 00:28:50,320
+Who is the Duke of Edinburgh married to?
+
+810
+00:28:50,320 --> 00:28:52,680
+The Duke of Edinburgh married to?
+
+811
+00:28:52,680 --> 00:28:54,160
+- Duke of Edinburgh.
+
+812
+00:28:54,160 --> 00:28:55,000
+- Burra, yes.
+
+813
+00:28:55,000 --> 00:28:56,920
+- In 1984?
+
+814
+00:28:56,920 --> 00:28:57,760
+- Yep.
+
+815
+00:28:57,760 --> 00:29:00,960
+- Lady Diana Spencer?
+
+816
+00:29:00,960 --> 00:29:01,800
+- No.
+
+817
+00:29:01,800 --> 00:29:03,640
+- The Queen!
+
+818
+00:29:03,640 --> 00:29:05,440
+- Queen Elizabeth II.
+
+819
+00:29:05,440 --> 00:29:09,040
+I cannot be bothered to care about the royals at all
+
+820
+00:29:09,040 --> 00:29:10,400
+in any respect.
+
+821
+00:29:10,400 --> 00:29:11,640
+- That's why we let you play with us.
+
+822
+00:29:11,640 --> 00:29:13,000
+- I salute you for that.
+
+823
+00:29:13,000 --> 00:29:14,760
+All right, Lauren.
+
+824
+00:29:14,760 --> 00:29:15,720
+- I rolled a one.
+
+825
+00:29:15,720 --> 00:29:18,520
+- All right, this is coming from the 90s edition.
+
+826
+00:29:18,520 --> 00:29:20,960
+Your question is coming from 1994.
+
+827
+00:29:20,960 --> 00:29:22,560
+The cards specify the year.
+
+828
+00:29:22,560 --> 00:29:25,080
+So category one is oops.
+
+829
+00:29:25,080 --> 00:29:25,920
+Oh dear.
+
+830
+00:29:25,920 --> 00:29:26,920
+- That's life.
+
+831
+00:29:26,920 --> 00:29:27,760
+- Yep.
+
+832
+00:29:27,760 --> 00:29:30,040
+- Welcome to the world of people.
+
+833
+00:29:30,040 --> 00:29:33,640
+- What US state's lucky voters got to pull the lever
+
+834
+00:29:33,640 --> 00:29:36,260
+For Howard Stern for governor.
+
+835
+00:29:36,260 --> 00:29:37,100
+- Oh.
+
+836
+00:29:37,100 --> 00:29:41,520
+- What US states, lucky voters,
+
+837
+00:29:41,520 --> 00:29:43,800
+got to pull the lever for Howard Stern for governor.
+
+838
+00:29:43,800 --> 00:29:46,360
+I feel like this is editorializing in a weird way.
+
+839
+00:29:46,360 --> 00:29:51,400
+Did we have a recall election in '94?
+
+840
+00:29:51,400 --> 00:29:56,240
+New York.
+
+841
+00:29:56,240 --> 00:29:57,080
+It is New York.
+
+842
+00:29:57,080 --> 00:29:58,040
+- Oh, roll again.
+
+843
+00:29:58,040 --> 00:29:59,200
+- Yeah, he's very New York.
+
+844
+00:29:59,200 --> 00:30:01,800
+- Yes, if that was a Jeopardy question,
+
+845
+00:30:01,800 --> 00:30:03,320
+- See the way my mind works-- - Lucky would mean something
+
+846
+00:30:03,320 --> 00:30:05,720
+and you'd have to guess Nevada or New Jersey maybe,
+
+847
+00:30:05,720 --> 00:30:06,560
+but it's not, it's just trivia per se.
+
+848
+00:30:06,560 --> 00:30:07,760
+- The way my mind works, I wonder whether
+
+849
+00:30:07,760 --> 00:30:10,200
+they were actually using lepers in 1994.
+
+850
+00:30:10,200 --> 00:30:12,080
+- One, I believe again.
+
+851
+00:30:12,080 --> 00:30:12,920
+- Yes. - I think they were
+
+852
+00:30:12,920 --> 00:30:13,840
+in New York. - What edition
+
+853
+00:30:13,840 --> 00:30:14,680
+would you like your question to come from?
+
+854
+00:30:14,680 --> 00:30:16,360
+- Something easy.
+
+855
+00:30:16,360 --> 00:30:17,800
+- Well, you know, junior trivia,
+
+856
+00:30:17,800 --> 00:30:19,860
+one or two are popular choices.
+
+857
+00:30:19,860 --> 00:30:21,600
+The Disney Kids box is popular,
+
+858
+00:30:21,600 --> 00:30:22,440
+although that didn't-- - Disney Kids.
+
+859
+00:30:22,440 --> 00:30:23,720
+- Okay. - Great, let's do it.
+
+860
+00:30:23,720 --> 00:30:27,400
+- And this time I know just where to find them.
+
+861
+00:30:27,400 --> 00:30:30,520
+All right, category one, Welcome to the World of Places.
+
+862
+00:30:30,520 --> 00:30:32,460
+- Yay, we're old. - Love places.
+
+863
+00:30:32,460 --> 00:30:34,340
+- All right. - I hate them so much.
+
+864
+00:30:34,340 --> 00:30:38,720
+- Our visitors allowed to walk up the Washington Monument.
+
+865
+00:30:38,720 --> 00:30:39,560
+Yes.
+
+866
+00:30:39,560 --> 00:30:41,800
+- No.
+
+867
+00:30:41,800 --> 00:30:43,280
+- You have to take the elevator.
+
+868
+00:30:43,280 --> 00:30:44,120
+- No, they do that in.
+
+869
+00:30:44,120 --> 00:30:45,840
+- You go down, but you have to take the elevator.
+
+870
+00:30:45,840 --> 00:30:46,720
+- Oh, I've never done that.
+
+871
+00:30:46,720 --> 00:30:48,600
+I was just thinking about the "Spider-Man" movie
+
+872
+00:30:48,600 --> 00:30:51,280
+where she doesn't wanna go up.
+
+873
+00:30:51,280 --> 00:30:53,480
+- Yeah, they might, they might.
+
+874
+00:30:53,480 --> 00:30:55,100
+I don't think so, 'cause there's only one staircase,
+
+875
+00:30:55,100 --> 00:30:55,940
+I think is the problem.
+
+876
+00:30:55,940 --> 00:30:56,780
+Everybody's going down.
+
+877
+00:30:56,780 --> 00:30:57,600
+- I didn't do it. - Well, that's a world
+
+878
+00:30:57,600 --> 00:30:58,760
+of places for you.
+
+879
+00:30:58,760 --> 00:30:59,600
+- Yeah, no.
+
+880
+00:30:59,600 --> 00:31:00,720
+- Oh, well, I chose poorly.
+
+881
+00:31:00,720 --> 00:31:01,920
+- It's a rough world.
+
+882
+00:31:01,920 --> 00:31:05,400
+- Well, all of our special roles have led to failure now.
+
+883
+00:31:05,400 --> 00:31:06,240
+- That's true.
+
+884
+00:31:06,240 --> 00:31:07,060
+- This is unusual.
+
+885
+00:31:07,060 --> 00:31:08,600
+- I also had a 50/50 chance.
+
+886
+00:31:08,600 --> 00:31:09,680
+- Yes, yeah.
+
+887
+00:31:09,680 --> 00:31:10,840
+- Well done.
+
+888
+00:31:10,840 --> 00:31:11,760
+- Five, please.
+
+889
+00:31:11,760 --> 00:31:14,640
+- All right, this is coming from Junior Trivia One.
+
+890
+00:31:14,640 --> 00:31:15,680
+- I'll probably botch it.
+
+891
+00:31:15,680 --> 00:31:17,300
+- All right, number five.
+
+892
+00:31:17,300 --> 00:31:20,240
+Where is Mount St. Helens volcano?
+
+893
+00:31:20,240 --> 00:31:25,860
+Where is it?
+
+894
+00:31:25,860 --> 00:31:27,480
+Remember, five to nine year old.
+
+895
+00:31:28,640 --> 00:31:30,560
+- We will need the exact longitude
+
+896
+00:31:30,560 --> 00:31:32,900
+and latitude coordinates for this, by the way.
+
+897
+00:31:32,900 --> 00:31:35,560
+- Oregon?
+
+898
+00:31:35,560 --> 00:31:37,660
+- It's Montana.
+
+899
+00:31:37,660 --> 00:31:38,640
+- No. - Washington.
+
+900
+00:31:38,640 --> 00:31:39,480
+- It's Washington.
+
+901
+00:31:39,480 --> 00:31:41,600
+- Okay, I'm told you can see it, right?
+
+902
+00:31:41,600 --> 00:31:42,440
+- Yeah.
+
+903
+00:31:42,440 --> 00:31:44,000
+- We're very high from Seattle.
+
+904
+00:31:44,000 --> 00:31:45,360
+- The river up here is literally,
+
+905
+00:31:45,360 --> 00:31:46,640
+well, I mean, undisclosed location.
+
+906
+00:31:46,640 --> 00:31:48,480
+It's very close to where we are.
+
+907
+00:31:48,480 --> 00:31:50,600
+- We're recording from Mount St. Helens.
+
+908
+00:31:50,600 --> 00:31:53,080
+- On a plane ride I recently took,
+
+909
+00:31:53,080 --> 00:31:55,400
+there were people looking out my adjacent window,
+
+910
+00:31:55,400 --> 00:31:57,120
+pointing and going, "That's Mount St. Helens."
+
+911
+00:31:57,120 --> 00:31:59,160
+No, it's something else.
+
+912
+00:31:59,160 --> 00:32:00,200
+There was a lot of argument.
+
+913
+00:32:00,200 --> 00:32:01,480
+- I was told I could see it,
+
+914
+00:32:01,480 --> 00:32:05,200
+and the answer is I did not realize there was a line.
+
+915
+00:32:05,200 --> 00:32:06,640
+- State borders are very tricky.
+
+916
+00:32:06,640 --> 00:32:10,680
+The card specifically says, "The state of Washington, USA."
+
+917
+00:32:10,680 --> 00:32:12,040
+- Yeah, I was gonna say,
+
+918
+00:32:12,040 --> 00:32:15,140
+would the United States have been a good enough answer there?
+
+919
+00:32:15,140 --> 00:32:17,040
+Six.
+
+920
+00:32:17,040 --> 00:32:20,600
+- All right, Jason, this is coming from the family edition.
+
+921
+00:32:20,600 --> 00:32:21,440
+- Right. - Yes.
+
+922
+00:32:21,440 --> 00:32:22,800
+But this is the, let's see,
+
+923
+00:32:22,800 --> 00:32:25,280
+the yellow cards are the children's cards.
+
+924
+00:32:25,280 --> 00:32:27,820
+- Yay, I am doomed.
+
+925
+00:32:27,820 --> 00:32:28,720
+- What was the number again?
+
+926
+00:32:28,720 --> 00:32:29,640
+- Six. - Six, all right.
+
+927
+00:32:29,640 --> 00:32:30,800
+Six, wild card.
+
+928
+00:32:30,800 --> 00:32:32,700
+- Not a category.
+
+929
+00:32:32,700 --> 00:32:33,680
+- Welcome to the world of wild cards.
+
+930
+00:32:33,680 --> 00:32:35,920
+- What bird's holes did one time
+
+931
+00:32:35,920 --> 00:32:38,680
+Arizona Lieutenant Governor Ernest Hall
+
+932
+00:32:38,680 --> 00:32:41,880
+collect thousands of as a hobby?
+
+933
+00:32:41,880 --> 00:32:43,020
+What bird's holes?
+
+934
+00:32:43,020 --> 00:32:45,160
+- I'm gonna say the woodpecker.
+
+935
+00:32:45,160 --> 00:32:46,000
+- Yes.
+
+936
+00:32:46,000 --> 00:32:48,800
+- Any other answer is incredibly disturbing.
+
+937
+00:32:48,800 --> 00:32:51,800
+- Cloaca would have been my second guess.
+
+938
+00:32:51,800 --> 00:32:53,600
+- Yes, but which bird's cloacas?
+
+939
+00:32:53,600 --> 00:32:57,400
+- All right, number six was my last roll,
+
+940
+00:32:57,400 --> 00:32:59,640
+so now we all remember that.
+
+941
+00:32:59,640 --> 00:33:00,480
+And it's a one.
+
+942
+00:33:00,480 --> 00:33:03,440
+- All right, this is coming from the Friends edition,
+
+943
+00:33:03,440 --> 00:33:06,320
+where the one, category one is at the bottom of the card,
+
+944
+00:33:06,320 --> 00:33:08,440
+where we have seasons one and two.
+
+945
+00:33:08,440 --> 00:33:09,280
+- Oh, excellent.
+
+946
+00:33:09,280 --> 00:33:12,560
+- Yeah, the Friends edition just makes me so mad.
+
+947
+00:33:12,560 --> 00:33:14,160
+Why would you put seasons one and two
+
+948
+00:33:14,160 --> 00:33:15,280
+at the bottom of the card?
+
+949
+00:33:15,280 --> 00:33:16,560
+Who does that?
+
+950
+00:33:16,560 --> 00:33:17,960
+Anyway, executive decision.
+
+951
+00:33:17,960 --> 00:33:19,400
+- Could it be any more annoying?
+
+952
+00:33:19,400 --> 00:33:20,960
+- No.
+
+953
+00:33:20,960 --> 00:33:23,120
+Also well played, reference acknowledged.
+
+954
+00:33:23,120 --> 00:33:25,680
+seasons one and two, where does the gang find
+
+955
+00:33:25,680 --> 00:33:27,520
+Rachel's lost wedding ring?
+
+956
+00:33:27,520 --> 00:33:36,680
+- Oh man, it hurts more when you know you did know this
+
+957
+00:33:36,680 --> 00:33:39,860
+and you don't know it anymore.
+
+958
+00:33:39,860 --> 00:33:46,480
+Rachel's lost wedding ring, 'cause she was in the pilot,
+
+959
+00:33:46,480 --> 00:33:49,520
+she's fleeing a marriage, is that right, I think?
+
+960
+00:33:49,520 --> 00:33:51,000
+- I'm not gonna answer that question
+
+961
+00:33:51,000 --> 00:33:51,840
+in part 'cause I don't remember.
+
+962
+00:33:51,840 --> 00:33:55,080
+- I think that's how that show starts.
+
+963
+00:33:55,080 --> 00:33:57,760
+They find it in
+
+964
+00:33:57,760 --> 00:34:01,080
+Marcel the monkey.
+
+965
+00:34:01,080 --> 00:34:03,200
+(laughing)
+
+966
+00:34:03,200 --> 00:34:04,680
+- Not it.
+
+967
+00:34:04,680 --> 00:34:06,880
+It's in Monica's lasagna.
+
+968
+00:34:06,880 --> 00:34:07,760
+- Okay.
+
+969
+00:34:07,760 --> 00:34:09,400
+- Which makes about as much sense.
+
+970
+00:34:09,400 --> 00:34:11,640
+- They found that the lasagna was later found
+
+971
+00:34:11,640 --> 00:34:12,720
+in Marcel the monkey.
+
+972
+00:34:12,720 --> 00:34:14,820
+- Which was inside a raw turkey.
+
+973
+00:34:14,820 --> 00:34:15,660
+- All right, Shelly.
+
+974
+00:34:15,660 --> 00:34:16,480
+- That's horrifying.
+
+975
+00:34:16,480 --> 00:34:17,320
+I rolled a one.
+
+976
+00:34:17,320 --> 00:34:19,880
+- All right, this is coming from the 1980s edition.
+
+977
+00:34:19,880 --> 00:34:20,720
+The janky old.
+
+978
+00:34:20,720 --> 00:34:30,560
+old 1980s edition. "Personalities" I think is the is the category. What ill-fated
+
+979
+00:34:30,560 --> 00:34:36,160
+Democratic presidential hopeful said of himself? "He educated the people."
+
+980
+00:34:36,160 --> 00:34:45,760
+Okay this is a topic with which I am somewhat familiar. The answer however, Democratic
+
+981
+00:34:45,760 --> 00:34:50,440
+presidential hopeful in a edition that was released it's about the 80s it's
+
+982
+00:34:50,440 --> 00:34:54,660
+about the 80s yes I'm sorry repeat the quote to me again please sure he
+
+983
+00:34:54,660 --> 00:34:59,260
+educated the people yes well that clarifies it doesn't it yeah so this is
+
+984
+00:34:59,260 --> 00:35:02,020
+about the 80s you know that's what I said about my favorite teacher in high
+
+985
+00:35:02,020 --> 00:35:06,340
+school he educated the people welcome to the world I'm just gonna go with Walter
+
+986
+00:35:06,340 --> 00:35:11,220
+and people it was not it was Duke caucus nope Gary Hart it was Gary Hart
+
+987
+00:35:11,220 --> 00:35:13,960
+- That is not the Gary Hart quote I would have thought.
+
+988
+00:35:13,960 --> 00:35:14,800
+(laughing)
+
+989
+00:35:14,800 --> 00:35:16,880
+- He educated the people about what not to do
+
+990
+00:35:16,880 --> 00:35:18,640
+as a candidate for sure.
+
+991
+00:35:18,640 --> 00:35:22,940
+- All right, that's the end of four rounds, kids.
+
+992
+00:35:22,940 --> 00:35:24,620
+Jason and Dan tied at the top of three.
+
+993
+00:35:24,620 --> 00:35:26,520
+Lauren was two, Shelly was none,
+
+994
+00:35:26,520 --> 00:35:28,580
+and Monty hoping to get yet another question,
+
+995
+00:35:28,580 --> 00:35:30,500
+but the Royal Family also was none.
+
+996
+00:35:30,500 --> 00:35:32,740
+(laughing)
+
+997
+00:35:32,740 --> 00:35:35,180
+- I have rolled a five.
+
+998
+00:35:35,180 --> 00:35:37,900
+- All right, this is coming from the Baby Boomer edition.
+
+999
+00:35:37,900 --> 00:35:40,740
+Category five is lives and times,
+
+1000
+00:35:40,740 --> 00:35:43,780
+which is what I was confused about earlier.
+
+1001
+00:35:43,780 --> 00:35:47,300
+What couple named their first born child Chastity?
+
+1002
+00:35:47,300 --> 00:35:50,860
+- Sonny and Cher.
+
+1003
+00:35:50,860 --> 00:35:53,060
+- Correct, do you know their last name?
+
+1004
+00:35:53,060 --> 00:35:56,860
+- Sonny Bono and Sherilyn Sarkeesian.
+
+1005
+00:35:56,860 --> 00:35:58,620
+- Oh wow, wow.
+
+1006
+00:35:58,620 --> 00:35:59,740
+- Bonus ghost point for Monty,
+
+1007
+00:35:59,740 --> 00:36:01,940
+the card says Sonny and Cher Bono.
+
+1008
+00:36:01,940 --> 00:36:03,460
+- Chastity is now Chas.
+
+1009
+00:36:03,460 --> 00:36:04,300
+- That's right.
+
+1010
+00:36:04,300 --> 00:36:08,260
+- Now I have rolled a three.
+
+1011
+00:36:08,260 --> 00:36:09,460
+- All right, this is coming from the DVD
+
+1012
+00:36:09,460 --> 00:36:15,280
+pop culture edition category three is music under what name did 60s musical
+
+1013
+00:36:15,280 --> 00:36:22,660
+eccentric Don van Vliet record V-L-I-E-T under what name did 60s
+
+1014
+00:36:22,660 --> 00:36:29,100
+musical eccentric Don van Vliet record? Captain Beefheart. You got it!
+
+1015
+00:36:29,100 --> 00:36:36,300
+Big influence on Frank Zappa real weirdo check him out.
+
+1016
+00:36:36,300 --> 00:36:37,140
+- All right.
+
+1017
+00:36:37,140 --> 00:36:38,340
+- Monty is zooming.
+
+1018
+00:36:38,340 --> 00:36:39,700
+I rolled another three.
+
+1019
+00:36:39,700 --> 00:36:41,940
+- Oh, what edition would you like your question
+
+1020
+00:36:41,940 --> 00:36:42,780
+to come from?
+
+1021
+00:36:42,780 --> 00:36:44,260
+- Genus one, please.
+
+1022
+00:36:44,260 --> 00:36:45,420
+- I thought so.
+
+1023
+00:36:45,420 --> 00:36:47,180
+- The edition Monty has memorized.
+
+1024
+00:36:47,180 --> 00:36:51,500
+- All right, and that was a one, no three, three.
+
+1025
+00:36:51,500 --> 00:36:52,820
+Okay, so history.
+
+1026
+00:36:52,820 --> 00:36:55,380
+Who discovered Victoria Falls?
+
+1027
+00:36:55,380 --> 00:36:58,300
+- Ooh, interesting.
+
+1028
+00:36:58,300 --> 00:37:00,100
+- And colonial.
+
+1029
+00:37:00,100 --> 00:37:02,500
+- Yeah, I was gonna say an asterisk on that one.
+
+1030
+00:37:02,500 --> 00:37:03,340
+- Definitely.
+
+1031
+00:37:03,340 --> 00:37:04,160
+- Yes.
+
+1032
+00:37:06,020 --> 00:37:10,220
+was in, oh boy, I don't know my explorers as much as I should,
+
+1033
+00:37:10,220 --> 00:37:13,500
+nor my geography, so this could be wildly wrong.
+
+1034
+00:37:13,500 --> 00:37:14,740
+Livingstone?
+
+1035
+00:37:14,740 --> 00:37:16,740
+- Yes, indeed. - That's gonna be my guess.
+
+1036
+00:37:16,740 --> 00:37:17,580
+- Do you know his first name?
+
+1037
+00:37:17,580 --> 00:37:18,860
+It's not required. - I don't.
+
+1038
+00:37:18,860 --> 00:37:20,180
+- It's David.
+
+1039
+00:37:20,180 --> 00:37:21,180
+- Oh.
+
+1040
+00:37:21,180 --> 00:37:22,420
+- No, Stanley's the one who meets him.
+
+1041
+00:37:22,420 --> 00:37:23,820
+- Right. - Oh, Stanley meets Livingstone.
+
+1042
+00:37:23,820 --> 00:37:25,100
+That's right, Dr. Livingstone, I presume,
+
+1043
+00:37:25,100 --> 00:37:27,700
+said Mr. Stanley, who does not have a doctorate
+
+1044
+00:37:27,700 --> 00:37:28,780
+in fighting people. - That was a sweep.
+
+1045
+00:37:28,780 --> 00:37:29,620
+Congratulations.
+
+1046
+00:37:29,620 --> 00:37:30,580
+- Well done, Monty. - So far, first sweep.
+
+1047
+00:37:30,580 --> 00:37:31,980
+- On the board.
+
+1048
+00:37:31,980 --> 00:37:33,020
+- I rolled a three.
+
+1049
+00:37:33,020 --> 00:37:35,420
+- All right, this is coming from the Genus 5 edition.
+
+1050
+00:37:35,420 --> 00:37:37,060
+Category three is history.
+
+1051
+00:37:37,060 --> 00:37:40,820
+What US city's Olympic officials were indicted on charges
+
+1052
+00:37:40,820 --> 00:37:45,020
+they gave $1 million in cash and gifts to IOC brass
+
+1053
+00:37:45,020 --> 00:37:47,900
+to secure the 2002 Winter Games?
+
+1054
+00:37:47,900 --> 00:37:49,540
+We're looking for the US city
+
+1055
+00:37:49,540 --> 00:37:51,420
+whose Olympic officials did all those things.
+
+1056
+00:37:51,420 --> 00:37:53,100
+- I think it's Salt Lake City.
+
+1057
+00:37:53,100 --> 00:37:54,740
+- Salt Lake City.
+
+1058
+00:37:54,740 --> 00:37:55,780
+- I'll say this should just stop
+
+1059
+00:37:55,780 --> 00:37:57,380
+from before 2002 Winter Games,
+
+1060
+00:37:57,380 --> 00:37:58,380
+just be like all of them.
+
+1061
+00:37:58,380 --> 00:37:59,220
+- Yeah.
+
+1062
+00:37:59,220 --> 00:38:02,020
+- Only one was indicted though.
+
+1063
+00:38:02,020 --> 00:38:03,060
+- I rolled a three.
+
+1064
+00:38:03,060 --> 00:38:03,980
+- That's another three.
+
+1065
+00:38:03,980 --> 00:38:05,020
+- Oh, that's another three.
+
+1066
+00:38:05,020 --> 00:38:07,020
+What category would you like this question to come from?
+
+1067
+00:38:07,020 --> 00:38:08,220
+- Something better than the last time.
+
+1068
+00:38:08,220 --> 00:38:09,440
+- You did the Disney one last time.
+
+1069
+00:38:09,440 --> 00:38:10,620
+Would you like a junior?
+
+1070
+00:38:10,620 --> 00:38:11,460
+- Yes, I would.
+
+1071
+00:38:11,460 --> 00:38:12,300
+- Okay.
+
+1072
+00:38:12,300 --> 00:38:16,980
+Now, do you want junior trivia one or two?
+
+1073
+00:38:16,980 --> 00:38:17,820
+- One.
+
+1074
+00:38:17,820 --> 00:38:19,460
+- All right.
+
+1075
+00:38:19,460 --> 00:38:21,140
+Last one over there, so.
+
+1076
+00:38:21,140 --> 00:38:23,740
+All right, category three.
+
+1077
+00:38:23,740 --> 00:38:24,820
+There's no categories.
+
+1078
+00:38:24,820 --> 00:38:25,740
+Actually, that's not true.
+
+1079
+00:38:25,740 --> 00:38:27,300
+There are categories.
+
+1080
+00:38:27,300 --> 00:38:29,820
+Listener Sab reminded me that there are categories
+
+1081
+00:38:29,820 --> 00:38:30,740
+for junior trivia,
+
+1082
+00:38:30,740 --> 00:38:32,340
+and I had completely forgotten about that,
+
+1083
+00:38:32,340 --> 00:38:34,140
+and I was going to put them on my spreadsheet,
+
+1084
+00:38:34,140 --> 00:38:36,020
+and I didn't, so we don't know what they are still.
+
+1085
+00:38:36,020 --> 00:38:37,060
+- But there are categories.
+
+1086
+00:38:37,060 --> 00:38:41,220
+- #Teaser for the next episode of "Randor Pursuit"
+
+1087
+00:38:41,220 --> 00:38:43,420
+where I actually update this.
+
+1088
+00:38:43,420 --> 00:38:48,720
+What are the teeth made of on the sharpest saws?
+
+1089
+00:38:48,720 --> 00:38:55,020
+What are the teeth made of on the sharpest saws?
+
+1090
+00:38:55,020 --> 00:38:55,860
+- Diamonds.
+
+1091
+00:38:55,860 --> 00:38:57,640
+- It is diamonds, roll again.
+
+1092
+00:38:57,640 --> 00:39:01,060
+- One.
+
+1093
+00:39:01,060 --> 00:39:03,820
+- All right, this is also coming from Junior Trivia One.
+
+1094
+00:39:03,820 --> 00:39:08,820
+- Okay, what bionic parts did the $6 million man have?
+
+1095
+00:39:08,820 --> 00:39:10,300
+- Oh, geez.
+
+1096
+00:39:10,300 --> 00:39:11,740
+- The family show.
+
+1097
+00:39:11,740 --> 00:39:14,860
+- Okay, she had an ear, so it's not that.
+
+1098
+00:39:14,860 --> 00:39:17,340
+- Wow, they really want all of it.
+
+1099
+00:39:17,340 --> 00:39:18,180
+- Yeah.
+
+1100
+00:39:18,180 --> 00:39:23,860
+- I only watched the girl one.
+
+1101
+00:39:23,860 --> 00:39:25,100
+- 'Cause it was better.
+
+1102
+00:39:25,100 --> 00:39:29,180
+- Yeah, I know.
+
+1103
+00:39:32,860 --> 00:39:35,540
+Arm, how many?
+
+1104
+00:39:35,540 --> 00:39:37,100
+You're not gonna tell me.
+
+1105
+00:39:37,100 --> 00:39:41,840
+Arm and eye and probably a leg.
+
+1106
+00:39:41,840 --> 00:39:44,300
+- I'm gonna give it to you.
+
+1107
+00:39:44,300 --> 00:39:47,260
+It's one arm, one eye and legs.
+
+1108
+00:39:47,260 --> 00:39:49,700
+But this is a ridiculous thing
+
+1109
+00:39:49,700 --> 00:39:50,780
+that they were asking for all of it.
+
+1110
+00:39:50,780 --> 00:39:51,620
+- Arm, eye and legs.
+
+1111
+00:39:51,620 --> 00:39:52,700
+- Because he had to run fast.
+
+1112
+00:39:52,700 --> 00:39:53,540
+He could do it.
+
+1113
+00:39:53,540 --> 00:39:56,120
+(all laughing)
+
+1114
+00:39:56,120 --> 00:40:00,180
+- All right, so that's another sweep.
+
+1115
+00:40:00,180 --> 00:40:01,020
+- Wilders.
+
+1116
+00:40:01,020 --> 00:40:02,180
+All right, no pressure, Dan.
+
+1117
+00:40:02,180 --> 00:40:07,300
+Oh wait, do you have a d8 over there or does somebody need to pass you one? Thank you Monty.
+
+1118
+00:40:07,300 --> 00:40:09,300
+Mm-hmm
+
+1119
+00:40:09,300 --> 00:40:16,180
+One all right very important this is coming from the 50s and 60s edition of Chex trivia
+
+1120
+00:40:16,180 --> 00:40:20,420
+I'm tired of tech heads. What is the name of Elvis Presley's first record?
+
+1121
+00:40:20,420 --> 00:40:28,220
+You just put that movie it wouldn't help okay
+
+1122
+00:40:28,220 --> 00:40:29,060
+- Okay.
+
+1123
+00:40:29,060 --> 00:40:34,220
+Two guesses.
+
+1124
+00:40:34,220 --> 00:40:39,320
+I'm gonna guess, man, I don't know.
+
+1125
+00:40:39,320 --> 00:40:43,860
+I'm gonna guess Elvis.
+
+1126
+00:40:43,860 --> 00:40:44,700
+(laughing)
+
+1127
+00:40:44,700 --> 00:40:45,620
+- That's a very good guess.
+
+1128
+00:40:45,620 --> 00:40:46,820
+That is not the answer.
+
+1129
+00:40:46,820 --> 00:40:47,660
+Does anybody know this?
+
+1130
+00:40:47,660 --> 00:40:49,020
+I certainly did not.
+
+1131
+00:40:49,020 --> 00:40:51,500
+It's called "My Happiness."
+
+1132
+00:40:51,500 --> 00:40:52,340
+- No.
+
+1133
+00:40:52,340 --> 00:40:54,060
+- It's not a single or something too,
+
+1134
+00:40:54,060 --> 00:40:55,100
+not his first album.
+
+1135
+00:40:55,100 --> 00:40:58,140
+- Well, it says record, so it could be an album.
+
+1136
+00:40:58,140 --> 00:40:59,660
+- I think it's the studios and they cut it
+
+1137
+00:40:59,660 --> 00:41:02,180
+and it didn't go anywhere and he got better songwriters
+
+1138
+00:41:02,180 --> 00:41:04,220
+and yeah, it's in the movie.
+
+1139
+00:41:04,220 --> 00:41:06,180
+- Again. - Should've watched it.
+
+1140
+00:41:06,180 --> 00:41:07,300
+- All right, Jason.
+
+1141
+00:41:07,300 --> 00:41:08,460
+- Five.
+
+1142
+00:41:08,460 --> 00:41:09,340
+- All right, this is coming from
+
+1143
+00:41:09,340 --> 00:41:11,380
+the Trivial Pursuit Millennium Edition,
+
+1144
+00:41:11,380 --> 00:41:13,780
+category five is sports and leisure.
+
+1145
+00:41:13,780 --> 00:41:17,860
+How many times did Babe Ruth win baseball's triple crown?
+
+1146
+00:41:17,860 --> 00:41:20,000
+- Come on, how many times?
+
+1147
+00:41:20,000 --> 00:41:24,160
+That is not stuff that I know.
+
+1148
+00:41:24,160 --> 00:41:29,160
+Over 15 seasons, triple crown though,
+
+1149
+00:41:29,160 --> 00:41:34,840
+it's batting average.
+
+1150
+00:41:34,840 --> 00:41:35,680
+- I don't even know what that means.
+
+1151
+00:41:35,680 --> 00:41:39,040
+- There are a lot of guys, you're the leader in the league
+
+1152
+00:41:39,040 --> 00:41:42,360
+in batting average home runs and runs batted in.
+
+1153
+00:41:42,360 --> 00:41:43,560
+- Do you get an actual crown?
+
+1154
+00:41:43,560 --> 00:41:44,760
+'Cause otherwise I do not care.
+
+1155
+00:41:44,760 --> 00:41:45,600
+- You don't.
+
+1156
+00:41:45,600 --> 00:41:46,680
+- You don't.
+
+1157
+00:41:46,680 --> 00:41:49,640
+You just, I mean, you could, you might have.
+
+1158
+00:41:49,640 --> 00:41:53,300
+Batting average, I'm not sure he actually did that well in.
+
+1159
+00:41:53,300 --> 00:41:56,440
+So I'm going to say none.
+
+1160
+00:41:56,440 --> 00:41:58,020
+- The card says zero, but I'm gonna give it to you.
+
+1161
+00:41:58,020 --> 00:41:58,860
+- Yeah. - Nice.
+
+1162
+00:41:58,860 --> 00:41:59,860
+- It's not just batting average.
+
+1163
+00:41:59,860 --> 00:42:01,960
+Luke Gehrig got so many RBIs.
+
+1164
+00:42:01,960 --> 00:42:04,580
+- Well, earlier before Gehrig,
+
+1165
+00:42:04,580 --> 00:42:06,860
+he probably led the league in homers and RBIs,
+
+1166
+00:42:06,860 --> 00:42:09,180
+but I don't think he ever did batting average.
+
+1167
+00:42:09,180 --> 00:42:10,020
+- You get to roll again.
+
+1168
+00:42:10,020 --> 00:42:10,840
+- Okay, what was my number there?
+
+1169
+00:42:10,840 --> 00:42:12,060
+Does anybody remember?
+
+1170
+00:42:12,060 --> 00:42:14,900
+It was one, five, five, four.
+
+1171
+00:42:14,900 --> 00:42:17,160
+- All right, this is coming from the Doctor Who edition,
+
+1172
+00:42:17,160 --> 00:42:18,400
+the second Doctor Who edition.
+
+1173
+00:42:18,400 --> 00:42:21,220
+So you might have some Jodie Whittaker in there.
+
+1174
+00:42:21,220 --> 00:42:24,380
+Category five is, wait, no, what did you roll this time?
+
+1175
+00:42:24,380 --> 00:42:26,420
+- Four. - Four.
+
+1176
+00:42:26,420 --> 00:42:28,020
+- Sorry, five was last time, four.
+
+1177
+00:42:28,020 --> 00:42:29,380
+Years and dates.
+
+1178
+00:42:29,380 --> 00:42:31,700
+What century is it when the pteroleptiles
+
+1179
+00:42:31,700 --> 00:42:35,060
+escape the jails of Raga and become stranded on Earth?
+
+1180
+00:42:35,060 --> 00:42:36,560
+- You've gotta be kidding me.
+
+1181
+00:42:36,560 --> 00:42:39,740
+What century is the pteroleptiles?
+
+1182
+00:42:39,740 --> 00:42:42,820
+I can't even do the pteroleptiles or who are they even?
+
+1183
+00:42:42,820 --> 00:42:44,580
+- I'm not gonna answer that question,
+
+1184
+00:42:44,580 --> 00:42:46,740
+but this time I do know the answer.
+
+1185
+00:42:46,740 --> 00:42:47,900
+- I know, I know, pteroleptiles.
+
+1186
+00:42:47,900 --> 00:42:50,200
+- Can you make a noise like the pteroleptiles?
+
+1187
+00:42:50,200 --> 00:42:51,240
+- Um.
+
+1188
+00:42:51,240 --> 00:42:52,080
+- Stephen probably could.
+
+1189
+00:42:52,080 --> 00:42:52,920
+- No.
+
+1190
+00:42:52,920 --> 00:42:53,740
+(laughing)
+
+1191
+00:42:53,740 --> 00:42:55,760
+- It's the 30th century.
+
+1192
+00:42:55,760 --> 00:42:56,660
+- It is not.
+
+1193
+00:42:56,660 --> 00:42:58,360
+It is the 1600s.
+
+1194
+00:42:58,360 --> 00:43:01,060
+It was the Tereleptiles accidentally started
+
+1195
+00:43:01,060 --> 00:43:02,760
+the fire of London.
+
+1196
+00:43:02,760 --> 00:43:03,600
+- What?
+
+1197
+00:43:03,600 --> 00:43:04,420
+- They also destroyed-
+
+1198
+00:43:04,420 --> 00:43:05,260
+- Demons?
+
+1199
+00:43:05,260 --> 00:43:06,100
+What is that?
+
+1200
+00:43:06,100 --> 00:43:06,920
+- Visitation.
+
+1201
+00:43:06,920 --> 00:43:07,760
+- In the visitation.
+
+1202
+00:43:07,760 --> 00:43:08,600
+- The visitation.
+
+1203
+00:43:08,600 --> 00:43:10,000
+- They also destroyed the fifth doctor's sonic screwdriver.
+
+1204
+00:43:10,000 --> 00:43:10,900
+- Okay.
+
+1205
+00:43:10,900 --> 00:43:12,080
+- Those guys are jerks.
+
+1206
+00:43:12,080 --> 00:43:12,920
+I'm just saying.
+
+1207
+00:43:12,920 --> 00:43:13,740
+- Totally.
+
+1208
+00:43:13,740 --> 00:43:14,580
+- Isn't that good?
+
+1209
+00:43:14,580 --> 00:43:15,920
+Isn't the sonic screwdriver kind of leaned on
+
+1210
+00:43:15,920 --> 00:43:16,760
+pretty heavily?
+
+1211
+00:43:16,760 --> 00:43:18,320
+- That's why the producers were like,
+
+1212
+00:43:18,320 --> 00:43:19,320
+we're getting rid of this thing.
+
+1213
+00:43:19,320 --> 00:43:22,400
+I was like, no, I was a child, it was very sad.
+
+1214
+00:43:22,400 --> 00:43:24,240
+- And then they brought it back.
+
+1215
+00:43:24,240 --> 00:43:25,300
+- I have rolled a six.
+
+1216
+00:43:25,300 --> 00:43:28,240
+- All right, this is also coming from the Doctor Who edition
+
+1217
+00:43:28,240 --> 00:43:30,500
+of the other Doctor Who edition.
+
+1218
+00:43:30,500 --> 00:43:31,800
+Category six is-- - This game is rigged.
+
+1219
+00:43:31,800 --> 00:43:33,040
+- It is? - 100%.
+
+1220
+00:43:33,040 --> 00:43:35,400
+- Cast, crew and beyond.
+
+1221
+00:43:35,400 --> 00:43:37,680
+Which BBC department performed
+
+1222
+00:43:37,680 --> 00:43:39,680
+the original Doctor Who theme tune?
+
+1223
+00:43:39,680 --> 00:43:41,420
+And you have multiple choice.
+
+1224
+00:43:41,420 --> 00:43:44,740
+So it's either the stereophonic workshop,
+
+1225
+00:43:44,740 --> 00:43:48,440
+the radiographic workshop, the radiophonic workshop,
+
+1226
+00:43:48,440 --> 00:43:50,420
+or the symphonic orchestra?
+
+1227
+00:43:50,420 --> 00:43:53,640
+- I'm gonna choose symphonic orchestra
+
+1228
+00:43:53,640 --> 00:43:55,560
+because I hope that's right.
+
+1229
+00:43:55,560 --> 00:43:57,760
+- Last is the radiophonic workshop.
+
+1230
+00:43:57,760 --> 00:43:58,760
+- The radiophonic workshop.
+
+1231
+00:43:58,760 --> 00:43:59,880
+- That's the one I wanna work for
+
+1232
+00:43:59,880 --> 00:44:00,720
+'cause it just sounds fun.
+
+1233
+00:44:00,720 --> 00:44:01,540
+- It does sound cool.
+
+1234
+00:44:01,540 --> 00:44:03,500
+- And they're very nice fellows.
+
+1235
+00:44:03,500 --> 00:44:07,200
+- Yeah, that's a little Dr. Who expert drop there.
+
+1236
+00:44:07,200 --> 00:44:08,040
+- That's true.
+
+1237
+00:44:08,040 --> 00:44:09,040
+- They're very nice.
+
+1238
+00:44:09,040 --> 00:44:11,280
+- Although one of the few women in this course
+
+1239
+00:44:11,280 --> 00:44:13,520
+was at the head of that, Delia Darbyshire, who wrote it.
+
+1240
+00:44:13,520 --> 00:44:15,060
+You're right, she made it happen.
+
+1241
+00:44:15,060 --> 00:44:25,020
+Alright, Lauren has gone out of the hack to skip to the lead with her sweep.
+
+1242
+00:44:25,020 --> 00:44:26,020
+There you go.
+
+1243
+00:44:26,020 --> 00:44:27,020
+She's sliding right in there.
+
+1244
+00:44:27,020 --> 00:44:28,020
+There's a whole bunch of curling metaphors.
+
+1245
+00:44:28,020 --> 00:44:31,780
+She's got five, Jason has four, Dan and Monty with his own sweep have three, and Shelley
+
+1246
+00:44:31,780 --> 00:44:32,900
+with none.
+
+1247
+00:44:32,900 --> 00:44:34,940
+But it's still not early at all.
+
+1248
+00:44:34,940 --> 00:44:36,740
+It's still not over.
+
+1249
+00:44:36,740 --> 00:44:42,540
+We are now entering the last regular round of Random Pursuit here, where the round after
+
+1250
+00:44:42,540 --> 00:44:43,540
+this will be infinite.
+
+1251
+00:44:43,540 --> 00:44:45,540
+has judged us.
+
+1252
+00:44:45,540 --> 00:44:47,300
+Dumb wanting.
+
+1253
+00:44:47,300 --> 00:44:48,900
+I have rolled a one.
+
+1254
+00:44:48,900 --> 00:44:49,860
+- All right, this is coming from
+
+1255
+00:44:49,860 --> 00:44:52,100
+the Trivial Pursuit Millennium Edition.
+
+1256
+00:44:52,100 --> 00:44:54,640
+Category one, people and places.
+
+1257
+00:44:54,640 --> 00:44:57,440
+How many years does a governor's term last
+
+1258
+00:44:57,440 --> 00:44:59,580
+in New Hampshire and Vermont?
+
+1259
+00:44:59,580 --> 00:45:02,620
+- I don't think anybody can be governor
+
+1260
+00:45:02,620 --> 00:45:04,220
+of New Hampshire and Vermont.
+
+1261
+00:45:04,220 --> 00:45:05,300
+(all laughing)
+
+1262
+00:45:05,300 --> 00:45:06,620
+Seems illegal.
+
+1263
+00:45:06,620 --> 00:45:07,540
+Two years.
+
+1264
+00:45:07,540 --> 00:45:08,740
+- You are correct, roll again.
+
+1265
+00:45:08,740 --> 00:45:09,580
+- Wow.
+
+1266
+00:45:12,700 --> 00:45:13,820
+- Two.
+
+1267
+00:45:13,820 --> 00:45:18,500
+- All right, this is coming from my second newest edition.
+
+1268
+00:45:18,500 --> 00:45:20,060
+It's the Dungeons and Dragons edition,
+
+1269
+00:45:20,060 --> 00:45:22,300
+which I apparently neglected to put on here.
+
+1270
+00:45:22,300 --> 00:45:24,620
+So I don't know what the category is at all.
+
+1271
+00:45:24,620 --> 00:45:26,060
+- Oh, dragons.
+
+1272
+00:45:26,060 --> 00:45:27,300
+- Is there a letter?
+
+1273
+00:45:27,300 --> 00:45:29,900
+- No, there's a little picture.
+
+1274
+00:45:29,900 --> 00:45:31,940
+It looks like it might be spells or something.
+
+1275
+00:45:31,940 --> 00:45:32,780
+Can you look it up for me?
+
+1276
+00:45:32,780 --> 00:45:34,820
+- Spells or something.
+
+1277
+00:45:34,820 --> 00:45:36,460
+- What was your number again?
+
+1278
+00:45:36,460 --> 00:45:37,300
+- Two.
+
+1279
+00:45:37,300 --> 00:45:38,780
+- Okay.
+
+1280
+00:45:38,780 --> 00:45:42,220
+It's a book with a 20-sided die hovering over it.
+
+1281
+00:45:42,220 --> 00:45:44,500
+- Rules.
+
+1282
+00:45:44,500 --> 00:45:46,040
+- I think it might be history,
+
+1283
+00:45:46,040 --> 00:45:48,100
+like real world history of Dungeons & Dragons.
+
+1284
+00:45:48,100 --> 00:45:50,300
+- Oh, please, please, please, please, please.
+
+1285
+00:45:50,300 --> 00:45:52,420
+(laughing)
+
+1286
+00:45:52,420 --> 00:45:56,060
+But not history in Dungeons & Dragons.
+
+1287
+00:45:56,060 --> 00:45:57,380
+- There we go.
+
+1288
+00:45:57,380 --> 00:45:59,460
+Dungeons & Adventures, what is it, number?
+
+1289
+00:45:59,460 --> 00:46:00,300
+- Two.
+
+1290
+00:46:00,300 --> 00:46:02,300
+- Two, it is Monsters.
+
+1291
+00:46:02,300 --> 00:46:04,540
+- This does not look like Monsters.
+
+1292
+00:46:04,540 --> 00:46:05,380
+I think that is incorrect.
+
+1293
+00:46:05,380 --> 00:46:06,220
+- No, that doesn't compute.
+
+1294
+00:46:06,220 --> 00:46:08,020
+- Oh, well, it's the official trivia.
+
+1295
+00:46:08,020 --> 00:46:08,860
+- It's wrong.
+
+1296
+00:46:08,860 --> 00:46:10,100
+- It's the right page, so.
+
+1297
+00:46:10,100 --> 00:46:11,920
+- All right, well, anyway, it's yellow.
+
+1298
+00:46:11,920 --> 00:46:14,140
+Monty, this is your yellow question
+
+1299
+00:46:14,140 --> 00:46:15,220
+about Dungeons and Dragons.
+
+1300
+00:46:15,220 --> 00:46:18,420
+What lead designer of third edition D&D
+
+1301
+00:46:18,420 --> 00:46:21,540
+was known for his previous work on smaller press RPGs
+
+1302
+00:46:21,540 --> 00:46:23,140
+like Ars Magica?
+
+1303
+00:46:23,140 --> 00:46:26,660
+- Oh, somebody who worked on Ars Magica
+
+1304
+00:46:26,660 --> 00:46:28,940
+and third edition D&D?
+
+1305
+00:46:28,940 --> 00:46:29,780
+- Mm-hmm, yep.
+
+1306
+00:46:29,780 --> 00:46:34,020
+- Oh boy, this is going to kill me when I get it wrong.
+
+1307
+00:46:34,020 --> 00:46:35,740
+- Unless you get it right.
+
+1308
+00:46:35,740 --> 00:46:38,440
+I, I, oh boy.
+
+1309
+00:46:38,440 --> 00:46:40,920
+Third edition.
+
+1310
+00:46:40,920 --> 00:46:44,140
+I'm just gonna say Lisa Stevens.
+
+1311
+00:46:44,140 --> 00:46:47,660
+- It is not that, it is Jonathan Tweet.
+
+1312
+00:46:47,660 --> 00:46:49,740
+Yes, at least you knew the name.
+
+1313
+00:46:49,740 --> 00:46:51,640
+- Yeah, of course it's Jonathan Tweet.
+
+1314
+00:46:51,640 --> 00:46:54,980
+- All right, that brings us-- - He's a good man.
+
+1315
+00:46:54,980 --> 00:46:55,820
+- I know him.
+
+1316
+00:46:55,820 --> 00:46:59,460
+- Check that, more name drops.
+
+1317
+00:46:59,460 --> 00:47:01,060
+- I rolled a six.
+
+1318
+00:47:01,060 --> 00:47:03,020
+All right, this is coming from the Star Trek
+
+1319
+00:47:03,020 --> 00:47:04,760
+50th anniversary edition.
+
+1320
+00:47:04,760 --> 00:47:06,040
+- That's right, not 50th. - Top 50th.
+
+1321
+00:47:06,040 --> 00:47:09,720
+- 50, and this is coming from "Star Trek III,"
+
+1322
+00:47:09,720 --> 00:47:11,120
+the search for Spock.
+
+1323
+00:47:11,120 --> 00:47:13,160
+- Oh, I've only seen that once.
+
+1324
+00:47:13,160 --> 00:47:15,380
+- Well, will that be enough to help?
+
+1325
+00:47:15,380 --> 00:47:18,600
+You need to know ships, that is your category is ships.
+
+1326
+00:47:18,600 --> 00:47:21,120
+- Who are they searching for and searching for?
+
+1327
+00:47:21,120 --> 00:47:23,760
+- Who sabotaged the Excelsior's engine
+
+1328
+00:47:23,760 --> 00:47:26,400
+so it could not pursue the Enterprise?
+
+1329
+00:47:26,400 --> 00:47:29,400
+Who sabotaged?
+
+1330
+00:47:29,400 --> 00:47:32,120
+- I literally don't have anything.
+
+1331
+00:47:33,640 --> 00:47:35,360
+- Guess a Star Trek character.
+
+1332
+00:47:35,360 --> 00:47:36,660
+- But a bad one, right?
+
+1333
+00:47:36,660 --> 00:47:39,080
+- Or is this a good thing? - I'll read it again.
+
+1334
+00:47:39,080 --> 00:47:40,080
+I'll read it again.
+
+1335
+00:47:40,080 --> 00:47:42,220
+Who sabotaged the Excelsior's engine
+
+1336
+00:47:42,220 --> 00:47:44,080
+so it could not pursue the Enterprise?
+
+1337
+00:47:44,080 --> 00:47:45,440
+- So a good person.
+
+1338
+00:47:45,440 --> 00:47:47,000
+I mean, I'm not making any judgments here.
+
+1339
+00:47:47,000 --> 00:47:51,160
+- No judgment, but presumably Scotty.
+
+1340
+00:47:51,160 --> 00:47:52,000
+- It was Scotty.
+
+1341
+00:47:52,000 --> 00:47:54,200
+- Oh, nice. - In the David Gerrold book,
+
+1342
+00:47:54,200 --> 00:47:57,040
+he says, "Scotty has stolen their spark plugs."
+
+1343
+00:47:57,040 --> 00:47:58,400
+I've always remembered that.
+
+1344
+00:47:58,400 --> 00:47:59,400
+(laughing)
+
+1345
+00:47:59,400 --> 00:48:02,640
+- This also gives us a little extra information.
+
+1346
+00:48:02,640 --> 00:48:05,800
+Scotty, who said, "The more they overthink the plumbing,
+
+1347
+00:48:05,800 --> 00:48:08,120
+the easier it is to stop up the drain."
+
+1348
+00:48:08,120 --> 00:48:10,320
+So not spark plugs, apparently, but.
+
+1349
+00:48:10,320 --> 00:48:13,040
+- Yeah, why is there a drain connected to your engines?
+
+1350
+00:48:13,040 --> 00:48:14,720
+Bad move.
+
+1351
+00:48:14,720 --> 00:48:16,280
+- I rolled a one.
+
+1352
+00:48:16,280 --> 00:48:19,760
+All right, this is coming from the Globetrotter edition,
+
+1353
+00:48:19,760 --> 00:48:20,600
+which was sent by-
+
+1354
+00:48:20,600 --> 00:48:22,640
+- All questions about the Harlem Globetrotters.
+
+1355
+00:48:22,640 --> 00:48:24,240
+- This is gonna go to us as well.
+
+1356
+00:48:24,240 --> 00:48:27,280
+These are the cards that Anthony Johnston mailed to me.
+
+1357
+00:48:27,280 --> 00:48:29,160
+This is a question about North America.
+
+1358
+00:48:29,160 --> 00:48:32,560
+"Which movie hears Gene Wilder say
+
+1359
+00:48:32,560 --> 00:48:34,680
+These are the people of the land,
+
+1360
+00:48:34,680 --> 00:48:38,800
+the common clay of the new west, you know, morons.
+
+1361
+00:48:38,800 --> 00:48:46,560
+- Oh, he was in a Mel Brooks movie.
+
+1362
+00:48:46,560 --> 00:48:49,280
+- More than one.
+
+1363
+00:48:49,280 --> 00:48:51,120
+- It's true, he was in several.
+
+1364
+00:48:51,120 --> 00:48:56,120
+- This is where my memory is not great.
+
+1365
+00:49:02,480 --> 00:49:06,560
+I'm looking across and you're nodding at me.
+
+1366
+00:49:06,560 --> 00:49:08,080
+- Read it from our minds.
+
+1367
+00:49:08,080 --> 00:49:09,440
+- It's not coming out.
+
+1368
+00:49:09,440 --> 00:49:12,280
+- Look at Jason's eyes.
+
+1369
+00:49:12,280 --> 00:49:14,680
+The scene is playing in his head right now.
+
+1370
+00:49:14,680 --> 00:49:16,240
+(laughing)
+
+1371
+00:49:16,240 --> 00:49:17,500
+- It's not helping.
+
+1372
+00:49:17,500 --> 00:49:28,920
+No, I can think of Willy Wonka and it's not that.
+
+1373
+00:49:28,920 --> 00:49:31,160
+- That would be a weird scene in Willy Wonka.
+
+1374
+00:49:31,160 --> 00:49:32,640
+- Yeah, not like all the other ones.
+
+1375
+00:49:32,640 --> 00:49:34,800
+- He was talking about the usual loopers, gross.
+
+1376
+00:49:34,800 --> 00:49:37,200
+(laughing)
+
+1377
+00:49:37,200 --> 00:49:38,880
+- I think he was in the Frankenstein one,
+
+1378
+00:49:38,880 --> 00:49:40,320
+but it's probably not that.
+
+1379
+00:49:40,320 --> 00:49:42,840
+And this, it doesn't help.
+
+1380
+00:49:42,840 --> 00:49:45,120
+And I'm not gonna Liz this out.
+
+1381
+00:49:45,120 --> 00:49:45,960
+I'm not.
+
+1382
+00:49:45,960 --> 00:49:50,760
+- I mean, you did it with Scotty.
+
+1383
+00:49:50,760 --> 00:49:52,760
+- That was better.
+
+1384
+00:49:52,760 --> 00:49:58,680
+No, I feel like there's a Mel Brooks movie
+
+1385
+00:49:58,680 --> 00:50:01,560
+where they all sit around the campfire and fart.
+
+1386
+00:50:01,560 --> 00:50:04,920
+And I think that's it, but I don't know what it is.
+
+1387
+00:50:04,920 --> 00:50:07,360
+The Wild Wild West.
+
+1388
+00:50:07,360 --> 00:50:09,240
+- When we're playing Jeopardy at home,
+
+1389
+00:50:09,240 --> 00:50:10,880
+that is counted as a correct answer.
+
+1390
+00:50:10,880 --> 00:50:13,120
+- Ah, this is not Jeopardy at home.
+
+1391
+00:50:13,120 --> 00:50:14,440
+- And it's blazing sadly.
+
+1392
+00:50:14,440 --> 00:50:18,080
+- You are not at home right now.
+
+1393
+00:50:18,080 --> 00:50:20,520
+- That was the correct movie, but yes, I needed the title.
+
+1394
+00:50:20,520 --> 00:50:22,360
+- Well, in my heart, I got that right.
+
+1395
+00:50:22,360 --> 00:50:23,720
+- Ghost points. - Ghost points.
+
+1396
+00:50:23,720 --> 00:50:25,200
+- Ghost points, yeah.
+
+1397
+00:50:25,200 --> 00:50:26,960
+- All right, that brings us to Dan.
+
+1398
+00:50:26,960 --> 00:50:29,320
+- I need some catching up to do in this round.
+
+1399
+00:50:29,320 --> 00:50:30,320
+Four, please.
+
+1400
+00:50:30,320 --> 00:50:33,720
+- All right, this is coming from GenusFive.
+
+1401
+00:50:33,720 --> 00:50:35,800
+Category four is science and nature.
+
+1402
+00:50:35,800 --> 00:50:38,440
+What computer company went warm and fuzzy
+
+1403
+00:50:38,440 --> 00:50:43,440
+with ads featuring some of its 307,500 employees?
+
+1404
+00:50:43,440 --> 00:50:47,520
+A computer company went warm and fuzzy
+
+1405
+00:50:47,520 --> 00:50:51,400
+with ads featuring some of its 307,500 employees.
+
+1406
+00:50:51,400 --> 00:50:55,400
+And I can tell you that this edition of Trivial Pursuit
+
+1407
+00:50:55,400 --> 00:50:59,680
+came out in 2000.
+
+1408
+00:50:59,680 --> 00:51:01,760
+So it would have been before 2000.
+
+1409
+00:51:01,760 --> 00:51:04,600
+- So not Facebook.
+
+1410
+00:51:04,600 --> 00:51:10,880
+- Warm and fuzzy feels like a toss up.
+
+1411
+00:51:10,880 --> 00:51:18,120
+I don't know why, but I'm thinking Intel.
+
+1412
+00:51:18,120 --> 00:51:20,240
+- I'm afraid not. - IBM?
+
+1413
+00:51:20,240 --> 00:51:21,080
+- It was IBM.
+
+1414
+00:51:21,080 --> 00:51:23,960
+- Yeah, without any employees, it's gotta be IBM.
+
+1415
+00:51:23,960 --> 00:51:25,600
+- Yeah, and they went warm and fuzzy
+
+1416
+00:51:25,600 --> 00:51:27,440
+because they're normally all corporate.
+
+1417
+00:51:27,440 --> 00:51:28,280
+- Incorporate, yeah.
+
+1418
+00:51:28,280 --> 00:51:29,920
+- And West Valley was never pictured
+
+1419
+00:51:29,920 --> 00:51:30,760
+because apparently it was not warm and fuzzy.
+
+1420
+00:51:30,760 --> 00:51:31,580
+- But for some reason I had something in my head
+
+1421
+00:51:31,580 --> 00:51:34,080
+that Intel had a, it had like bunnies or something.
+
+1422
+00:51:34,080 --> 00:51:37,960
+- Well, yeah, it was the bunny suits with the little--
+
+1423
+00:51:37,960 --> 00:51:39,040
+- With the ears and stuff, right?
+
+1424
+00:51:39,040 --> 00:51:40,240
+- But they were still in their little getups.
+
+1425
+00:51:40,240 --> 00:51:42,360
+- Yeah, I don't know, that's why I was thinking that,
+
+1426
+00:51:42,360 --> 00:51:43,520
+but overthought it.
+
+1427
+00:51:43,520 --> 00:51:45,080
+- 300,000 people.
+
+1428
+00:51:45,080 --> 00:51:46,240
+- Yeah, 300,000 people.
+
+1429
+00:51:46,240 --> 00:51:48,000
+- Not anymore.
+
+1430
+00:51:48,000 --> 00:51:49,360
+- No, five.
+
+1431
+00:51:49,360 --> 00:51:51,560
+- All right, this is coming from Genus One,
+
+1432
+00:51:51,560 --> 00:51:53,680
+in which category five is science and nature.
+
+1433
+00:51:53,680 --> 00:51:54,520
+- Nature, yes.
+
+1434
+00:51:54,520 --> 00:51:57,440
+- What's the largest gland in the human body?
+
+1435
+00:51:57,440 --> 00:52:02,880
+- I feel like we actually just did this one on a podcast.
+
+1436
+00:52:02,880 --> 00:52:07,880
+The largest gland in the human body is the...
+
+1437
+00:52:07,880 --> 00:52:18,600
+(laughing)
+
+1438
+00:52:18,600 --> 00:52:20,400
+If it makes that sound, it's broken.
+
+1439
+00:52:20,400 --> 00:52:22,640
+(laughing)
+
+1440
+00:52:22,640 --> 00:52:25,960
+- Oh, so many glands.
+
+1441
+00:52:25,960 --> 00:52:28,600
+- Welcome to the world of glands.
+
+1442
+00:52:28,600 --> 00:52:31,000
+- All right, that's my new least favorite word.
+
+1443
+00:52:31,000 --> 00:52:34,280
+- Glands, the thyroid.
+
+1444
+00:52:34,280 --> 00:52:35,840
+- It is not, it's the liver.
+
+1445
+00:52:35,840 --> 00:52:38,080
+- Oh yeah, see, I think I did this
+
+1446
+00:52:38,080 --> 00:52:40,240
+and it was a trick question because it's an organ.
+
+1447
+00:52:40,240 --> 00:52:41,840
+- Yeah, the thyroid's like the second though, I think.
+
+1448
+00:52:41,840 --> 00:52:42,680
+- Yeah.
+
+1449
+00:52:42,680 --> 00:52:44,880
+- The liver is not a gland.
+
+1450
+00:52:44,880 --> 00:52:45,880
+- I rolled a five.
+
+1451
+00:52:45,880 --> 00:52:48,000
+- All right, this is coming from the Star Wars edition.
+
+1452
+00:52:48,000 --> 00:52:49,400
+This is another one with a picture on the back.
+
+1453
+00:52:49,400 --> 00:52:50,240
+I'm going to pass you this card.
+
+1454
+00:52:50,240 --> 00:52:51,560
+- So many pictures.
+
+1455
+00:52:51,560 --> 00:52:54,860
+- Yup, I don't know if it will help at all.
+
+1456
+00:52:54,860 --> 00:52:55,700
+So far they have not been helpful.
+
+1457
+00:52:55,700 --> 00:52:56,520
+- I don't know Star Wars.
+
+1458
+00:52:56,520 --> 00:52:57,860
+- These guys with lightsabers.
+
+1459
+00:52:57,860 --> 00:52:59,580
+- Yeah, it's two people with lightsabers.
+
+1460
+00:52:59,580 --> 00:53:01,720
+- They have lightsabers.
+
+1461
+00:53:01,720 --> 00:53:03,180
+- They seem upset with each other.
+
+1462
+00:53:03,180 --> 00:53:04,500
+- They're causing so much.
+
+1463
+00:53:04,500 --> 00:53:05,980
+- They're usually not big fans of their people.
+
+1464
+00:53:05,980 --> 00:53:09,540
+- All right, category five is droids, creatures and aliens.
+
+1465
+00:53:09,540 --> 00:53:11,980
+Who was separated from Luke Skywalker
+
+1466
+00:53:11,980 --> 00:53:14,420
+during the search through Cloud City?
+
+1467
+00:53:14,420 --> 00:53:17,300
+Who was separated from Luke Skywalker
+
+1468
+00:53:17,300 --> 00:53:20,100
+during the search through Cloud City?
+
+1469
+00:53:20,100 --> 00:53:21,980
+Leia? I don't know.
+
+1470
+00:53:21,980 --> 00:53:22,820
+- It is not Leia.
+
+1471
+00:53:22,820 --> 00:53:24,220
+- Beep, beep, beep, beep, beep, beep, beep, beep.
+
+1472
+00:53:24,220 --> 00:53:25,820
+- You did say droids, you did not.
+
+1473
+00:53:25,820 --> 00:53:27,940
+- But it's creatures and aliens,
+
+1474
+00:53:27,940 --> 00:53:29,100
+and they're all aliens.
+
+1475
+00:53:29,100 --> 00:53:30,260
+But yes, it was R2-D2.
+
+1476
+00:53:30,260 --> 00:53:31,100
+- R2-D2.
+
+1477
+00:53:31,100 --> 00:53:35,620
+- R2-D2 is not the number, I don't know,
+
+1478
+00:53:35,620 --> 00:53:36,980
+I'm trying to make a reference between two,
+
+1479
+00:53:36,980 --> 00:53:38,260
+but nobody has two.
+
+1480
+00:53:38,260 --> 00:53:39,220
+- Segway abandoned.
+
+1481
+00:53:39,220 --> 00:53:41,140
+- Segway abandoned, abort, abort.
+
+1482
+00:53:41,140 --> 00:53:44,880
+Lauren leads, heading into the final round of this with six.
+
+1483
+00:53:44,880 --> 00:53:48,100
+Jason and Monty are tied at four,
+
+1484
+00:53:48,100 --> 00:53:50,600
+- Dan a three, Shelly with none.
+
+1485
+00:53:50,600 --> 00:53:52,980
+- It is worse to be last when you know answers
+
+1486
+00:53:52,980 --> 00:53:54,300
+to other people's questions.
+
+1487
+00:53:54,300 --> 00:53:55,420
+It's terrible.
+
+1488
+00:53:55,420 --> 00:53:56,700
+- That's random pursuit.
+
+1489
+00:53:56,700 --> 00:53:57,540
+- It is.
+
+1490
+00:53:57,540 --> 00:53:59,260
+All right, we're gonna start with Lauren.
+
+1491
+00:53:59,260 --> 00:54:02,620
+And she's going to set the benchmark for everybody else.
+
+1492
+00:54:02,620 --> 00:54:05,020
+- I rolled a four.
+
+1493
+00:54:05,020 --> 00:54:07,740
+- All right, this is coming from Trivial Pursuit Volume Six.
+
+1494
+00:54:07,740 --> 00:54:10,020
+That's right, not Gina Six, Volume Six.
+
+1495
+00:54:10,020 --> 00:54:12,860
+Category four, Science and Nature.
+
+1496
+00:54:12,860 --> 00:54:16,700
+What ingredient in microwave popcorn is being investigated
+
+1497
+00:54:16,700 --> 00:54:19,620
+for causing a rare factory worker's disease
+
+1498
+00:54:19,620 --> 00:54:21,940
+called popcorn packer's lung.
+
+1499
+00:54:21,940 --> 00:54:24,620
+And the being investigated was in 2003.
+
+1500
+00:54:24,620 --> 00:54:27,980
+- Strange present tense for a trivial pursuit question.
+
+1501
+00:54:27,980 --> 00:54:28,820
+- Uh-huh.
+
+1502
+00:54:28,820 --> 00:54:29,660
+- Those investigations take a lot.
+
+1503
+00:54:29,660 --> 00:54:30,780
+- Well, it's the seventh edition.
+
+1504
+00:54:30,780 --> 00:54:33,780
+They assume you're just getting the new one every year.
+
+1505
+00:54:33,780 --> 00:54:35,060
+- In the eighth edition, they had like,
+
+1506
+00:54:35,060 --> 00:54:35,900
+oh, it's all wrapped up.
+
+1507
+00:54:35,900 --> 00:54:37,060
+(all laughing)
+
+1508
+00:54:37,060 --> 00:54:37,900
+- And they went on to ask a mysterious question.
+
+1509
+00:54:37,900 --> 00:54:40,500
+- Just wanted to let you know they looked into this.
+
+1510
+00:54:40,500 --> 00:54:44,200
+- Yeah, so what ingredient in microwave popcorn
+
+1511
+00:54:44,200 --> 00:54:47,140
+is being investigated for causing a rare factory workers
+
+1512
+00:54:47,140 --> 00:54:49,480
+disease called popcorn packers lung.
+
+1513
+00:54:49,480 --> 00:54:58,120
+It's probably not the popcorn.
+
+1514
+00:54:58,120 --> 00:54:59,560
+- Yeah, that'd be awful.
+
+1515
+00:54:59,560 --> 00:55:00,400
+I don't know.
+
+1516
+00:55:00,400 --> 00:55:02,240
+- Probably a short investigation.
+
+1517
+00:55:02,240 --> 00:55:03,080
+- Yeah.
+
+1518
+00:55:03,080 --> 00:55:04,400
+- Yeah, they open up a lung.
+
+1519
+00:55:04,400 --> 00:55:06,980
+(all laughing)
+
+1520
+00:55:13,660 --> 00:55:14,580
+I don't know.
+
+1521
+00:55:14,580 --> 00:55:18,300
+So I guess it's gonna be a quick out on the next one.
+
+1522
+00:55:18,300 --> 00:55:22,300
+You won't have to get very many points to get any aspartame.
+
+1523
+00:55:22,300 --> 00:55:24,780
+It's the artificial butter apparently.
+
+1524
+00:55:24,780 --> 00:55:25,740
+Artificial butter.
+
+1525
+00:55:25,740 --> 00:55:28,340
+- Yeah, there's only popcorn butter and salt.
+
+1526
+00:55:28,340 --> 00:55:29,180
+- Salt.
+
+1527
+00:55:29,180 --> 00:55:31,020
+- Salt long.
+
+1528
+00:55:31,020 --> 00:55:35,220
+- All right, so that brings us around to Shelly.
+
+1529
+00:55:35,220 --> 00:55:37,580
+Shelly, oh, actually you need an eight sided die.
+
+1530
+00:55:37,580 --> 00:55:40,020
+Can somebody pass one to her?
+
+1531
+00:55:40,020 --> 00:55:42,780
+- Well, we have all the things we need
+
+1532
+00:55:42,780 --> 00:55:46,140
+- We're in the, I like rolling each side of the die.
+
+1533
+00:55:46,140 --> 00:55:46,980
+- Chex TV.
+
+1534
+00:55:46,980 --> 00:55:47,820
+- And we have
+
+1535
+00:55:47,820 --> 00:55:51,940
+a
+
+1536
+00:55:51,940 --> 00:55:52,780
+- Eight.
+
+1537
+00:55:52,780 --> 00:55:53,620
+- An eight.
+
+1538
+00:55:53,620 --> 00:55:56,340
+- All right, this is coming from the Chex TV trivia.
+
+1539
+00:55:56,340 --> 00:55:59,740
+Who was the voice of Harry Boyle on
+
+1540
+00:55:59,740 --> 00:56:01,840
+Wait 'Til Your Father Gets Home?
+
+1541
+00:56:01,840 --> 00:56:03,660
+We wanna know who is the voice of Harry Boyle
+
+1542
+00:56:03,660 --> 00:56:05,380
+on Wait 'Til Your Father Gets Home.
+
+1543
+00:56:05,380 --> 00:56:08,220
+- Do we have a date range on Chex trivia?
+
+1544
+00:56:08,220 --> 00:56:12,260
+- Chex trivia came out in 1984.
+
+1545
+00:56:12,260 --> 00:56:15,700
+So sometime before 1984.
+
+1546
+00:56:15,700 --> 00:56:17,060
+- There was that right, yeah.
+
+1547
+00:56:17,060 --> 00:56:19,060
+And I'm sorry, the category was.
+
+1548
+00:56:19,060 --> 00:56:20,120
+- There's no categories,
+
+1549
+00:56:20,120 --> 00:56:22,340
+it's just a bunch of random weird questions.
+
+1550
+00:56:22,340 --> 00:56:24,900
+- So we don't know whether this is a TV series or a--
+
+1551
+00:56:24,900 --> 00:56:27,220
+- Oh yeah, TV, sorry, it's TV trivia.
+
+1552
+00:56:27,220 --> 00:56:28,060
+Yes, sorry.
+
+1553
+00:56:28,060 --> 00:56:29,820
+- Harry Boyle, "Wait 'Til Your Father Gets Home."
+
+1554
+00:56:29,820 --> 00:56:32,180
+- Thousands and thousands of years of TV trivia.
+
+1555
+00:56:32,180 --> 00:56:33,620
+(all laughing)
+
+1556
+00:56:33,620 --> 00:56:36,180
+- Who is the voice of Harry Boyle
+
+1557
+00:56:36,180 --> 00:56:38,780
+on "Wait 'Til Your Father Gets Home?"
+
+1558
+00:56:38,780 --> 00:56:40,900
+- Wait 'Til Your Father, God.
+
+1559
+00:56:40,900 --> 00:56:42,380
+- It's in quotation marks, but they have no--
+
+1560
+00:56:42,380 --> 00:56:44,060
+- Oh, there you go, that changes everything.
+
+1561
+00:56:44,060 --> 00:56:45,780
+- They have no italics on these cards,
+
+1562
+00:56:45,780 --> 00:56:47,980
+so I'm assuming that was the TV show.
+
+1563
+00:56:47,980 --> 00:56:49,740
+- Couldn't afford that font with the italics.
+
+1564
+00:56:49,740 --> 00:56:51,260
+- I think they couldn't. - Not a show I know,
+
+1565
+00:56:51,260 --> 00:56:55,660
+so perhaps it is Canadian or of another country,
+
+1566
+00:56:55,660 --> 00:56:57,140
+or I'm just, anyways.
+
+1567
+00:56:57,140 --> 00:57:05,300
+I'm going to have to make some sort of uneducated guess.
+
+1568
+00:57:05,300 --> 00:57:06,240
+Here it comes.
+
+1569
+00:57:06,240 --> 00:57:08,400
+Coming right now, yep.
+
+1570
+00:57:08,400 --> 00:57:10,660
+(laughing)
+
+1571
+00:57:10,660 --> 00:57:13,400
+- Daws Butler, I don't know.
+
+1572
+00:57:13,400 --> 00:57:15,800
+- Good guess, it was a cartoon.
+
+1573
+00:57:15,800 --> 00:57:17,120
+- Well, they said voice, I assume.
+
+1574
+00:57:17,120 --> 00:57:19,360
+Unless it was like someone never seen or something.
+
+1575
+00:57:19,360 --> 00:57:20,640
+- Right, right, yeah.
+
+1576
+00:57:20,640 --> 00:57:22,320
+At least it's a name I recognize,
+
+1577
+00:57:22,320 --> 00:57:24,760
+but I did not know this, Tom Bosley.
+
+1578
+00:57:24,760 --> 00:57:26,240
+- Oh, okay. - That makes sense.
+
+1579
+00:57:26,240 --> 00:57:27,080
+- It does.
+
+1580
+00:57:27,080 --> 00:57:29,040
+- It was that real-- - Happy days, right?
+
+1581
+00:57:29,040 --> 00:57:29,880
+- Yep, yeah.
+
+1582
+00:57:29,880 --> 00:57:33,080
+It was a family cartoon.
+
+1583
+00:57:33,080 --> 00:57:36,040
+The mother talked exactly like the mother on Family Guy.
+
+1584
+00:57:36,040 --> 00:57:37,880
+- All right, so Dan, you are next.
+
+1585
+00:57:37,880 --> 00:57:39,120
+- Does Dan have four?
+
+1586
+00:57:39,120 --> 00:57:40,040
+- No, Dan has three.
+
+1587
+00:57:40,040 --> 00:57:40,880
+- Okay.
+
+1588
+00:57:40,880 --> 00:57:41,700
+- I think you and Jason are tied with four.
+
+1589
+00:57:41,700 --> 00:57:42,540
+- Oh, okay.
+
+1590
+00:57:42,540 --> 00:57:43,380
+- Yeah.
+
+1591
+00:57:43,380 --> 00:57:44,200
+(dice clatters)
+
+1592
+00:57:44,200 --> 00:57:45,200
+- Three, please.
+
+1593
+00:57:45,200 --> 00:57:48,960
+- All right, this is coming from the Silver Screen Edition.
+
+1594
+00:57:48,960 --> 00:57:51,360
+Category three is off-screen.
+
+1595
+00:57:51,360 --> 00:57:52,400
+(all laughing)
+
+1596
+00:57:52,400 --> 00:57:53,240
+- Wait.
+
+1597
+00:57:53,240 --> 00:57:54,720
+(all laughing)
+
+1598
+00:57:54,720 --> 00:57:55,560
+- It's immediately about category three.
+
+1599
+00:57:55,560 --> 00:57:57,720
+- Behind the silver screen.
+
+1600
+00:57:57,720 --> 00:57:59,680
+Just right away in category three.
+
+1601
+00:57:59,680 --> 00:58:02,920
+What did We Magazine call, quote,
+
+1602
+00:58:02,920 --> 00:58:06,480
+"A symbol of totally irrelevant accomplishment."
+
+1603
+00:58:06,480 --> 00:58:09,840
+- Oui is italicized and it is French as the O-U-I.
+
+1604
+00:58:09,840 --> 00:58:10,800
+- Oh. - Oui, yep.
+
+1605
+00:58:10,800 --> 00:58:13,800
+So what did Oui magazine call, quote,
+
+1606
+00:58:13,800 --> 00:58:17,200
+"A symbol of totally irrelevant accomplishment."
+
+1607
+00:58:17,200 --> 00:58:19,440
+(exhaling)
+
+1608
+00:58:19,440 --> 00:58:23,520
+- Do we end the silver screen,
+
+1609
+00:58:23,520 --> 00:58:24,880
+does it cover a specific era?
+
+1610
+00:58:24,880 --> 00:58:26,220
+Is there some?
+
+1611
+00:58:26,220 --> 00:58:28,120
+- It's about movies, so it's anything
+
+1612
+00:58:28,120 --> 00:58:30,600
+before the silver screen edition was published,
+
+1613
+00:58:30,600 --> 00:58:32,440
+and that was in 1983.
+
+1614
+00:58:32,440 --> 00:58:34,920
+So any movie type stuff off screen,
+
+1615
+00:58:34,920 --> 00:58:36,280
+'cause that's your category,
+
+1616
+00:58:36,280 --> 00:58:40,280
+before 1983, totally irrelevant accomplishment.
+
+1617
+00:58:40,280 --> 00:58:42,480
+- I'm gonna say the Oscars.
+
+1618
+00:58:42,480 --> 00:58:43,320
+- Also known as?
+
+1619
+00:58:43,320 --> 00:58:44,140
+- Academy Awards.
+
+1620
+00:58:44,140 --> 00:58:44,980
+- Correct.
+
+1621
+00:58:44,980 --> 00:58:47,360
+- Okay, it's the French, they seem snooty.
+
+1622
+00:58:47,360 --> 00:58:49,920
+We magazine was not French, it was a,
+
+1623
+00:58:49,920 --> 00:58:53,080
+it was a boob magazine from the 70s.
+
+1624
+00:58:53,080 --> 00:58:54,960
+(laughing)
+
+1625
+00:58:54,960 --> 00:58:55,800
+- My point stands.
+
+1626
+00:58:55,800 --> 00:58:58,440
+- All right.
+
+1627
+00:58:58,440 --> 00:58:59,840
+- I thought about the golden gloves
+
+1628
+00:58:59,840 --> 00:59:02,120
+because it's like, that seems too early.
+
+1629
+00:59:02,120 --> 00:59:04,680
+Also a three.
+
+1630
+00:59:04,680 --> 00:59:06,240
+Does that apply to anything in this round?
+
+1631
+00:59:06,240 --> 00:59:08,240
+Yeah, you get to choose the edition your question comes from.
+
+1632
+00:59:08,240 --> 00:59:10,240
+Well, it tanked me last time. I'm going to Star Wars again.
+
+1633
+00:59:10,240 --> 00:59:12,240
+Alright.
+
+1634
+00:59:12,240 --> 00:59:16,240
+One moment while I pull out a Star Wars card.
+
+1635
+00:59:16,240 --> 00:59:18,240
+Oh, there we go.
+
+1636
+00:59:18,240 --> 00:59:20,240
+Last one. Pass it around. It's got another picture on it.
+
+1637
+00:59:20,240 --> 00:59:22,240
+Woohoo! So many pictures.
+
+1638
+00:59:22,240 --> 00:59:26,240
+Please describe what you see on that card for the audience.
+
+1639
+00:59:26,240 --> 00:59:28,240
+Well, this is a controversial card.
+
+1640
+00:59:28,240 --> 00:59:32,240
+Oh!
+
+1641
+00:59:32,240 --> 00:59:34,240
+This is Han Solo and Greedo seated in the cantina.
+
+1642
+00:59:34,240 --> 00:59:37,360
+- Oh boy. - There's some smoke rising.
+
+1643
+00:59:37,360 --> 00:59:39,240
+- Somebody has shot. - Somebody shot someone else,
+
+1644
+00:59:39,240 --> 00:59:40,080
+but who?
+
+1645
+00:59:40,080 --> 00:59:42,320
+- And in what order? - Yeah, most importantly.
+
+1646
+00:59:42,320 --> 00:59:46,640
+- Okay, and that was category three, which is history.
+
+1647
+00:59:46,640 --> 00:59:51,280
+What did Grito say he'd been looking forward to
+
+1648
+00:59:51,280 --> 00:59:52,540
+for a long time?
+
+1649
+00:59:52,540 --> 00:59:54,680
+- Okay.
+
+1650
+00:59:54,680 --> 00:59:55,800
+(all laughing)
+
+1651
+00:59:55,800 --> 00:59:56,640
+- Oh boy.
+
+1652
+00:59:56,640 --> 01:00:00,520
+- And if you can answer in Rhodian, please.
+
+1653
+01:00:00,520 --> 01:00:01,980
+- Una gota solo.
+
+1654
+01:00:01,980 --> 01:00:02,820
+Um...
+
+1655
+01:00:02,820 --> 01:00:07,260
+- What did Greedo say he'd look forward to?
+
+1656
+01:00:07,260 --> 01:00:08,820
+- Okay, technically the line is like,
+
+1657
+01:00:08,820 --> 01:00:12,060
+I've been looking forward to this for a long time.
+
+1658
+01:00:12,060 --> 01:00:12,900
+- Uh-huh.
+
+1659
+01:00:12,900 --> 01:00:15,820
+- Do we need something more specific?
+
+1660
+01:00:15,820 --> 01:00:18,620
+- Yeah, it's asking for something more specific.
+
+1661
+01:00:18,620 --> 01:00:21,060
+I mean, Steven's like, I don't like this question.
+
+1662
+01:00:21,060 --> 01:00:22,560
+- Objection, that's inference.
+
+1663
+01:00:22,560 --> 01:00:25,260
+- What do you infer?
+
+1664
+01:00:25,260 --> 01:00:29,820
+- This could be so many things.
+
+1665
+01:00:29,820 --> 01:00:33,500
+catching Han Solo, shooting Han Solo, killing Han Solo,
+
+1666
+01:00:33,500 --> 01:00:35,900
+turning him into Jabba the Hutt for the bounty,
+
+1667
+01:00:35,900 --> 01:00:36,920
+one of those.
+
+1668
+01:00:36,920 --> 01:00:39,340
+- Yes. - But which one?
+
+1669
+01:00:39,340 --> 01:00:40,380
+- Yeah. - I mean,
+
+1670
+01:00:40,380 --> 01:00:42,060
+because it's not actually in the movie
+
+1671
+01:00:42,060 --> 01:00:43,980
+and you said it specifically. - Catching Han Solo.
+
+1672
+01:00:43,980 --> 01:00:44,860
+- Yeah.
+
+1673
+01:00:44,860 --> 01:00:46,100
+- Killing Han Solo. - Killing Han Solo.
+
+1674
+01:00:46,100 --> 01:00:47,940
+- Yes, that's a terrible, terrible question.
+
+1675
+01:00:47,940 --> 01:00:50,580
+- It is a bad question because there's no predicate.
+
+1676
+01:00:50,580 --> 01:00:52,060
+- Yeah, it just says this.
+
+1677
+01:00:52,060 --> 01:00:53,380
+- Yeah, the answer should be this.
+
+1678
+01:00:53,380 --> 01:00:54,220
+- Yeah. - It really should be.
+
+1679
+01:00:54,220 --> 01:00:57,180
+- Sitting in a booth at a cantina with Han Solo.
+
+1680
+01:00:57,180 --> 01:00:58,020
+- Clearly. - If you said,
+
+1681
+01:00:58,020 --> 01:01:00,300
+- I've been looking forward to killing you for a long time.
+
+1682
+01:01:00,300 --> 01:01:02,220
+No wonder Han shot him.
+
+1683
+01:01:02,220 --> 01:01:03,060
+- Yeah.
+
+1684
+01:01:03,060 --> 01:01:04,380
+(laughing)
+
+1685
+01:01:04,380 --> 01:01:05,900
+- Yeah, like we've said before,
+
+1686
+01:01:05,900 --> 01:01:09,620
+the genre editions are the hardest and the worst.
+
+1687
+01:01:09,620 --> 01:01:11,900
+- All right, we're still going, all right.
+
+1688
+01:01:11,900 --> 01:01:14,620
+- Yeah, I bet you have six.
+
+1689
+01:01:14,620 --> 01:01:16,180
+- Efforts acknowledged.
+
+1690
+01:01:16,180 --> 01:01:17,080
+- All right, this is coming from
+
+1691
+01:01:17,080 --> 01:01:19,100
+the Dungeons and Dragons edition,
+
+1692
+01:01:19,100 --> 01:01:21,260
+in which category six is something purple.
+
+1693
+01:01:21,260 --> 01:01:23,260
+- Yeah, something purple, something new.
+
+1694
+01:01:23,260 --> 01:01:24,600
+- Yep.
+
+1695
+01:01:24,600 --> 01:01:27,400
+Which of the outer planes is a morass
+
+1696
+01:01:27,400 --> 01:01:30,460
+of impermanent matter and energy with no structure,
+
+1697
+01:01:30,460 --> 01:01:33,840
+but what can be imposed by disciplined minds?
+
+1698
+01:01:33,840 --> 01:01:35,500
+Which of the outer planes?
+
+1699
+01:01:35,500 --> 01:01:39,160
+And I have to turn this freaking card over sideways.
+
+1700
+01:01:39,160 --> 01:01:45,040
+- I'm gonna guess the astral plane.
+
+1701
+01:01:45,040 --> 01:01:47,400
+- It is not the astral plane, I am sorry.
+
+1702
+01:01:47,400 --> 01:01:48,760
+- Is it the plane of chaos?
+
+1703
+01:01:48,760 --> 01:01:50,480
+- It is not the plane of chaos.
+
+1704
+01:01:50,480 --> 01:01:51,320
+Anyone else?
+
+1705
+01:01:51,320 --> 01:01:54,120
+- It's not the material plane, it's not the negative.
+
+1706
+01:01:54,120 --> 01:01:55,520
+- I think they changed it a couple of times
+
+1707
+01:01:55,520 --> 01:01:56,360
+in multiple editions.
+
+1708
+01:01:56,360 --> 01:01:57,440
+- Yeah, I don't know what the outer planes.
+
+1709
+01:01:57,440 --> 01:01:59,760
+- Astral and ethereal planes can't be outer planes
+
+1710
+01:01:59,760 --> 01:02:00,880
+'cause they're right here.
+
+1711
+01:02:00,880 --> 01:02:02,440
+- Frontier Airlines.
+
+1712
+01:02:02,440 --> 01:02:04,120
+(laughing)
+
+1713
+01:02:04,120 --> 01:02:05,520
+- The world of planes. - Too soon, Jason, too soon.
+
+1714
+01:02:05,520 --> 01:02:07,080
+- Welcome to the world of planes.
+
+1715
+01:02:07,080 --> 01:02:11,080
+- It is Limbo, also known as the ever-changing chaos
+
+1716
+01:02:11,080 --> 01:02:14,080
+of Limbo, so chaos maybe, but I don't, I don't.
+
+1717
+01:02:14,080 --> 01:02:15,120
+- Limbo to its friends.
+
+1718
+01:02:15,120 --> 01:02:16,440
+- Yes, mm-hmm.
+
+1719
+01:02:16,440 --> 01:02:17,340
+- Okay. - So.
+
+1720
+01:02:17,340 --> 01:02:19,480
+- There's only one rule in Limbo, it's how low can you go?
+
+1721
+01:02:19,480 --> 01:02:20,320
+- Exactly.
+
+1722
+01:02:20,320 --> 01:02:22,600
+- All right.
+
+1723
+01:02:22,600 --> 01:02:24,520
+- Both Monty and Jason have four,
+
+1724
+01:02:24,520 --> 01:02:26,280
+so how do you want to do this?
+
+1725
+01:02:26,280 --> 01:02:29,360
+- Roll off, dance off, then roll off.
+
+1726
+01:02:29,360 --> 01:02:32,880
+- Well, we'll go off, we'll go in order of players.
+
+1727
+01:02:32,880 --> 01:02:34,960
+I go, Monty goes first, yeah.
+
+1728
+01:02:34,960 --> 01:02:36,840
+- What is my target?
+
+1729
+01:02:36,840 --> 01:02:39,000
+- Your target, so the target now,
+
+1730
+01:02:39,000 --> 01:02:40,160
+with only two contestants to go,
+
+1731
+01:02:40,160 --> 01:02:42,040
+Lauren has six and currently with the lead.
+
+1732
+01:02:42,040 --> 01:02:43,880
+Dan ended with five.
+
+1733
+01:02:43,880 --> 01:02:45,400
+Jason and Monty with four.
+
+1734
+01:02:45,400 --> 01:02:47,480
+Shelly is sadly out with zero.
+
+1735
+01:02:47,480 --> 01:02:48,320
+So there you go. - Okay.
+
+1736
+01:02:48,320 --> 01:02:51,160
+- So you only have to get three right to take the lead,
+
+1737
+01:02:51,160 --> 01:02:53,080
+but then you have to worry about Jason coming up from behind.
+
+1738
+01:02:53,080 --> 01:02:53,920
+- All right.
+
+1739
+01:02:53,920 --> 01:02:57,520
+Two.
+
+1740
+01:02:57,520 --> 01:02:59,920
+- All right, this is coming from the 90s edition,
+
+1741
+01:02:59,920 --> 01:03:02,440
+1996 specifically.
+
+1742
+01:03:02,440 --> 01:03:04,800
+Category two is wired.
+
+1743
+01:03:04,800 --> 01:03:08,120
+What computer company created a removable disk drive
+
+1744
+01:03:08,120 --> 01:03:11,000
+that could read and write 3.5 inch floppies
+
+1745
+01:03:11,000 --> 01:03:14,720
+as well as its own 120 megabyte super disks?
+
+1746
+01:03:14,720 --> 01:03:16,480
+And that's all one word, capital S,
+
+1747
+01:03:16,480 --> 01:03:18,660
+capital D for super disks.
+
+1748
+01:03:18,660 --> 01:03:20,220
+What computer company?
+
+1749
+01:03:20,220 --> 01:03:25,220
+Okay, I'm torn between Zip and Jazz, spelled J-A-Z.
+
+1750
+01:03:25,220 --> 01:03:26,860
+I'm gonna say Zip.
+
+1751
+01:03:26,860 --> 01:03:27,700
+- It is neither of those.
+
+1752
+01:03:27,700 --> 01:03:28,780
+- Neither of those are a company.
+
+1753
+01:03:28,780 --> 01:03:30,500
+- Oh, they're made by Iomega.
+
+1754
+01:03:30,500 --> 01:03:31,340
+- Nope.
+
+1755
+01:03:31,340 --> 01:03:32,160
+- No, 'cause that is--
+
+1756
+01:03:32,160 --> 01:03:33,000
+- No, but it's a super drive.
+
+1757
+01:03:33,000 --> 01:03:33,840
+- The Zip drive didn't read--
+
+1758
+01:03:33,840 --> 01:03:36,060
+- It didn't read floppy drives 'cause I had one.
+
+1759
+01:03:36,060 --> 01:03:37,540
+Was it LaCie?
+
+1760
+01:03:37,540 --> 01:03:38,380
+- Nope. - Nope.
+
+1761
+01:03:38,380 --> 01:03:39,340
+- Nope.
+
+1762
+01:03:39,340 --> 01:03:40,180
+- This is fun.
+
+1763
+01:03:40,180 --> 01:03:41,000
+- Yeah. - This is fun.
+
+1764
+01:03:41,000 --> 01:03:41,840
+(laughing)
+
+1765
+01:03:41,840 --> 01:03:42,680
+- Gateway 2000?
+
+1766
+01:03:42,680 --> 01:03:43,780
+- Toshiba. - Dell?
+
+1767
+01:03:43,780 --> 01:03:46,300
+- Gateway 2000 in 1996, Jason, come on.
+
+1768
+01:03:46,300 --> 01:03:47,460
+- 1982, right?
+
+1769
+01:03:47,460 --> 01:03:49,980
+- Uh, it's gotta be a storage company
+
+1770
+01:03:49,980 --> 01:03:51,240
+of some kind.
+
+1771
+01:03:51,240 --> 01:03:52,080
+- That's a good point.
+
+1772
+01:03:52,080 --> 01:03:54,240
+- I'm gonna put you out of, nope, mm-mm.
+
+1773
+01:03:54,240 --> 01:03:55,200
+Compaq.
+
+1774
+01:03:55,200 --> 01:03:56,040
+- Compaq!
+
+1775
+01:03:56,040 --> 01:03:59,120
+- And it saved the company
+
+1776
+01:03:59,120 --> 01:04:00,840
+and made them what they are today.
+
+1777
+01:04:00,840 --> 01:04:03,560
+- But they didn't have warm and fuzzy employees
+
+1778
+01:04:03,560 --> 01:04:05,320
+to put in commercials.
+
+1779
+01:04:05,320 --> 01:04:07,560
+- All right, so that brings us to Jason.
+
+1780
+01:04:07,560 --> 01:04:08,400
+- This is the last chance.
+
+1781
+01:04:08,400 --> 01:04:10,320
+- This is going down to the snails, isn't it?
+
+1782
+01:04:10,320 --> 01:04:13,140
+- One.
+
+1783
+01:04:13,140 --> 01:04:15,920
+- All right, it's coming from the 1980s edition,
+
+1784
+01:04:15,920 --> 01:04:18,760
+the lousy only shiny on one side edition.
+
+1785
+01:04:18,760 --> 01:04:20,000
+That's the official title.
+
+1786
+01:04:20,000 --> 01:04:20,840
+- Yes.
+
+1787
+01:04:20,840 --> 01:04:23,080
+Category personalities.
+
+1788
+01:04:23,080 --> 01:04:23,920
+- Poisonalities.
+
+1789
+01:04:23,920 --> 01:04:26,480
+- What's George Bush's full name?
+
+1790
+01:04:26,480 --> 01:04:28,840
+- George Herbert Walker Bush?
+
+1791
+01:04:28,840 --> 01:04:29,680
+- It is.
+
+1792
+01:04:29,680 --> 01:04:30,760
+- Which George Bush?
+
+1793
+01:04:30,760 --> 01:04:32,080
+- This is the 1980s edition.
+
+1794
+01:04:32,080 --> 01:04:33,920
+- He still existed.
+
+1795
+01:04:33,920 --> 01:04:34,760
+Prove it.
+
+1796
+01:04:34,760 --> 01:04:35,580
+- But no one cares.
+
+1797
+01:04:35,580 --> 01:04:36,420
+- Touche.
+
+1798
+01:04:36,420 --> 01:04:37,240
+- Two.
+
+1799
+01:04:37,240 --> 01:04:39,160
+- All right, this is coming from the 1960s edition.
+
+1800
+01:04:39,160 --> 01:04:40,000
+Category two is--
+
+1801
+01:04:40,000 --> 01:04:41,200
+- What is George Bush's full name?
+
+1802
+01:04:41,200 --> 01:04:42,240
+(laughing)
+
+1803
+01:04:42,240 --> 01:04:44,440
+- No, 'cause it's entertainment.
+
+1804
+01:04:44,440 --> 01:04:45,640
+- What is Ronald Reagan's birth name?
+
+1805
+01:04:45,640 --> 01:04:52,920
+What was a 1928 Porter automobile better known as on TV in 1966?
+
+1806
+01:04:52,920 --> 01:04:53,920
+[LAUGHTER]
+
+1807
+01:04:53,920 --> 01:04:55,240
+What?
+
+1808
+01:04:55,240 --> 01:05:02,760
+What was a 1928 Porter automobile better known as on TV in 1966?
+
+1809
+01:05:02,760 --> 01:05:04,440
+The Batmobile?
+
+1810
+01:05:04,440 --> 01:05:04,940
+I know.
+
+1811
+01:05:04,940 --> 01:05:05,440
+I know.
+
+1812
+01:05:05,440 --> 01:05:07,480
+Car 54, where are you?
+
+1813
+01:05:07,480 --> 01:05:08,280
+Let Shelly answer.
+
+1814
+01:05:08,280 --> 01:05:09,680
+My Mother the Car.
+
+1815
+01:05:09,680 --> 01:05:11,220
+It was, which had a great theme song.
+
+1816
+01:05:11,220 --> 01:05:11,920
+It was on my list.
+
+1817
+01:05:11,920 --> 01:05:13,520
+It would have been my third guess.
+
+1818
+01:05:13,520 --> 01:05:14,760
+Now she is my mother dear.
+
+1819
+01:05:14,760 --> 01:05:17,080
+- My other ear is in the way.
+
+1820
+01:05:17,080 --> 01:05:18,960
+- Are we interested with some interesting scores there,
+
+1821
+01:05:18,960 --> 01:05:19,800
+Steven, huh?
+
+1822
+01:05:19,800 --> 01:05:21,240
+- Very interesting.
+
+1823
+01:05:21,240 --> 01:05:22,560
+Well, Shelly finishes zero,
+
+1824
+01:05:22,560 --> 01:05:24,880
+but we were very happy to have you here, Shelly, in person.
+
+1825
+01:05:24,880 --> 01:05:26,120
+- Thanks so much.
+
+1826
+01:05:26,120 --> 01:05:28,800
+- Monty with a nice late surge finishes four.
+
+1827
+01:05:28,800 --> 01:05:31,160
+Jason and Dan tied with five,
+
+1828
+01:05:31,160 --> 01:05:33,200
+but the winner in our first ever appearance
+
+1829
+01:05:33,200 --> 01:05:35,280
+on Random Pursuit is Lauren Snow with six.
+
+1830
+01:05:35,280 --> 01:05:37,520
+(cheering)
+
+1831
+01:05:37,520 --> 01:05:39,480
+- And she gets to be known as that,
+
+1832
+01:05:39,480 --> 01:05:42,520
+or no, no, I should say clearly, clarification here,
+
+1833
+01:05:42,520 --> 01:05:44,840
+She has the right to brag about that
+
+1834
+01:05:44,840 --> 01:05:46,400
+until we play together again.
+
+1835
+01:05:46,400 --> 01:05:47,240
+- Yeah.
+
+1836
+01:05:47,240 --> 01:05:48,680
+- This is absolutely correct.
+
+1837
+01:05:48,680 --> 01:05:49,520
+Thank you everybody.
+
+1838
+01:05:49,520 --> 01:05:51,760
+- I would encourage you to exercise that right.
+
+1839
+01:05:51,760 --> 01:05:54,640
+- Thank you everybody for joining me around this table.
+
+1840
+01:05:54,640 --> 01:05:56,120
+I wanna thank all of our players,
+
+1841
+01:05:56,120 --> 01:05:58,280
+Monty, Lauren, Dan, Jason, and Shelly.
+
+1842
+01:05:58,280 --> 01:06:00,260
+Special thanks to my scorekeeper, spouse,
+
+1843
+01:06:00,260 --> 01:06:03,360
+and person who drove me to this undisclosed location,
+
+1844
+01:06:03,360 --> 01:06:04,560
+Steven Schepanski.
+
+1845
+01:06:04,560 --> 01:06:06,440
+And thank you as always to our listeners.
+
+1846
+01:06:06,440 --> 01:06:09,200
+Please join us again on the next Incomparable Game Show.
+
+1847
+01:06:09,200 --> 01:06:10,040
+Be seeing you.
+
+1848
+01:06:10,040 --> 01:06:12,620
+(upbeat music)
+
+1849
+01:06:12,620 --> 01:06:15,200
+(upbeat music)
+
